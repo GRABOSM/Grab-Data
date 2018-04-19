@@ -32,9 +32,7 @@ Mapping Guidelines
  - Data sources and imagery we will use are listed here. Grab will research and use local tags and defer to local mappers, and also 
  check the JOSM history on items to see why previous edits and changes were made.
  
- Visual representation of example [areas](https://github.com/challa57/Grab-Data/blob/master/Example%20Areas) where missing roads are added in Jakarta
- 
-Changeset Comments
+ Changeset Comments
  - The team will provide changeset comments that are in compliance with OSM changeset guidelines.
 
 Error Detection
