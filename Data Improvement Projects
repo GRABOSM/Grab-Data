@@ -30,7 +30,7 @@ Mapping Guidelines
  check the JOSM history on items to see why previous edits and changes were made.
  
  Tools
-- The team will use JOSM for completing the task. JOSM has the OSM and Grab GPS traces (internal and non-downloadable file), and 
+- The team will use [JOSM](https://josm.openstreetmap.de/) for completing the task. JOSM has the OSM and Grab GPS traces (internal and non-downloadable file), and 
 validation warnings for road networks and other possible issues that are important to prevent improper changes.
  
  Changeset Comments
