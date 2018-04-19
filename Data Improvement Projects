@@ -1,5 +1,27 @@
-Data Processing
+Tools
+- The team will use JOSM for completing the task. JOSM has the OSM and Grab GPS traces (internal and non-downloadable file), and 
+validation warnings for road networks and other possible issues that are important to prevent improper changes.
 
+Data Modelling
+- The primary focus of work is adding missing roads and adjust alignment thereby enhancing the existing data of Indonesia in OSM.
+In some cases, the existing road network has been mapped incorrectly, meaning that some features are missing or may be in-accurately 
+mapped. We plan to use a variety of imagery sources to help map the geometry more accurately.
+
+Improvements that will be addressed include the following:
+- Adding missing roads
+- Adjusting road alignment as per imagery and GPS traces
+- Validate existing tags like-  classification - Residential, Trunk, Motorway etc and attributes - Bridge, Tunnel, links etc.
+
+Process Flow
+- Grab smoothened GPS traces(internal and non-downloadable file)
+- Find best imagery properly aligned per GPS traces and ground truth
+- Use JOSM with GPS traces and best imagery as reference 
+- Visually identify missing roads and add them
+- Correct classification and attribute errors in existing data
+- Run validation and fix all errors and warnings
+- Upload changeset with appropriate comments
+
+Data Processing
 Road Extraction and Validation
 We only contribute roads to OSM in areas served by Grab.  Here is an example of where we have added missing roads in Jakarta.
   
@@ -20,7 +42,7 @@ Error Detection
  quality from the OpenstreetMap Wiki page and LearnOSM.
 
 Contributors
-- Grab Data [Team]
+- Grab Data [Team](internal and non-downloadable file)
 
 Contact information
 - For more information, suggestions or questions contact our community lead [Lilian Quek](lilian.quek@grab.com)
