@@ -7,4 +7,4 @@ Information about:
  
 
 Additional Information
-For more information, suggestions or questions contact our community lead [Lilian Quek](lilian.quek@grab.com)
+For more information, suggestions or questions contact our community lead [Lilian Quek](https://www.openstreetmap.org/user/Lilian%20Quek)
