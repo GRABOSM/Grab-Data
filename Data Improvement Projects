@@ -34,8 +34,10 @@ Mapping Guidelines
 validation warnings for road networks and other possible issues that are important to prevent improper changes.
  
  Changeset Comments
- - The team will provide changeset comments that are in compliance with OSM changeset guidelines.
+ - The team will provide changeset comments that are in compliance with OSM changeset [guidelines]
+ (https://wiki.openstreetmap.org/wiki/Good_changeset_comments).
 
 Error Detection
  - Grab will use various QA and data quality tools such as JOSM validation warnings and errors, as well as best practices on data 
- quality from the OpenstreetMap Wiki page and LearnOSM.
+ quality from the [OpenstreetMap Wiki page](https://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data) and 
+ [LearnOSM](http://learnosm.org/en/coordination/review/).
