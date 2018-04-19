@@ -1,0 +1,19 @@
+Data Processing
+Road Extraction and Validation
+We only contribute roads to OSM in areas served by Grab.  Here is an example of where we have added missing roads in Jakarta.
+  
+
+
+
+Mapping Guidelines
+Grab will follow OSM global and local policies, along with any other guidelines as appropriate.
+Grab will also reach out to local OSM communities before beginning work, to gather feedback, suggestions and learn more about the data and tags used in that area.
+Data sources and imagery we will use are listed here. Grab will research and use local tags and defer to local mappers, and also check the JOSM history on items to see why previous edits and changes were made.
+Changeset Comments
+The team will provide changeset comments that are in compliance with OSM changeset guidelines.
+Error Detection
+Grab will use various QA and data quality tools such as JOSM validation warnings and errors, as well as best practices on data quality from the OpenstreetMap Wiki page and LearnOSM.
+Contributors
+
+Contact information
+For more information, suggestions or questions contact our community lead Lilian Quek
