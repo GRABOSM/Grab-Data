@@ -1,7 +1,3 @@
-Tools
-- The team will use JOSM for completing the task. JOSM has the OSM and Grab GPS traces (internal and non-downloadable file), and 
-validation warnings for road networks and other possible issues that are important to prevent improper changes.
-
 Data Modelling
 - The primary focus of work is adding missing roads and adjust alignment thereby enhancing the existing data of Indonesia in OSM.
 In some cases, the existing road network has been mapped incorrectly, meaning that some features are missing or may be in-accurately 
@@ -31,6 +27,10 @@ Mapping Guidelines
  the data and tags used in that area.
  - Data sources and imagery we will use are listed here. Grab will research and use local tags and defer to local mappers, and also 
  check the JOSM history on items to see why previous edits and changes were made.
+ 
+ Tools
+- The team will use JOSM for completing the task. JOSM has the OSM and Grab GPS traces (internal and non-downloadable file), and 
+validation warnings for road networks and other possible issues that are important to prevent improper changes.
  
  Changeset Comments
  - The team will provide changeset comments that are in compliance with OSM changeset guidelines.
