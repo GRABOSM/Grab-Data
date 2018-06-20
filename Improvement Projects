@@ -9,9 +9,10 @@
  
  
  ## Cities currently editing Inprogress in Indonesia:
- - Palembang
- - Hanoi
- - Singapore
+ - Palembang - Specific areas served by Grab are in scope - Imagery used - Digiglobe Premium and ESRI
+ - Hanoi - Specific areas served by Grab are in scope - Imagery used - Digiglobe standard
+ - Singapore - Specific areas served by Grab are in scope - Imagery used - Digiglobe Premium and ESRI
+ - Naga - Entire city is in scope - Imagery used - DigiGlobe Standard
 
 ## Improve osm map(~2kms-5kms radius) for specific Airports listed below:
 
@@ -35,11 +36,13 @@ Bangkok-	Suvarnabhumi Airport
 
 In-progress
 Klang Valley-	    Sultan Abdul Azziz Shah Airport
+Johor-	           Senai International Airport
 
 
 Yet to Start:
 Ho Chi Minh City-	Tan Son Nhat International Airport
-Penang-	          Penang International Airport
-Johor-	           Senai International Airport
 Yangon-	          Yangon International Airport
 Phnom-            Phenh	Phnom Penh International Airport
+
+On Hold as none of available imagery is matching with existing data
+ - Penang-	          Penang International Airport
