@@ -17,23 +17,23 @@
 ## Improve osm map(~2kms-5kms radius) for specific Airports listed below:
 
 Completed:
-City | Airport Name | Status
+City | Airport Name | Status|Imagery used
 
 Jakarta-   Soekarno Hatta International Airport
 Jakarta-	  Halim Perdana Kusuma Airport
-Surabaya-	 Juanda International Airport
-Medan-	    Kualanamu International Airport
-Bali-     	Ngurah Rai International Airport
-Makassar-	 Sultan Hasanuddin International Airport
-Bandung-  	Husein Sastranegara Airport
-Cebu-	     Mactan-Cebu International Airport
-Singapore-	Singapore Changi Airport
-Manila-   	Ninoy Aquino International Airport
-Bangkok-  	Don Mueang International Airport
-Hanoi-  	Noi Bai International Airport
-Klang Valley-	Kuala Lumpur International Airport
-Bangkok-	Suvarnabhumi Airport
-Johor-	  Senai International Airport
+Surabaya-	 Juanda International Airport - Digistandard/Bing
+Medan-	    Kualanamu International Airport- Digistandard/Bing
+Bali-     	Ngurah Rai International Airport - Esri Imagery
+Makassar-	 Sultan Hasanuddin International Airport - Esri Imagery
+Bandung-  	Husein Sastranegara Airport - Esri Imagery
+Cebu-	     Mactan-Cebu International Airport - Bing Imagery
+Singapore-	Singapore Changi Airport - DigiGlobe Standard Imagery
+Manila-   	Ninoy Aquino International Airport - Bing Aerial imagery
+Bangkok-  	Don Mueang International Airport - Bing Aerial imagery
+Hanoi-  	Noi Bai International Airport - MapBox Satellite
+Klang Valley-	Kuala Lumpur International Airport - Bing Aerial imagery
+Bangkok-	Suvarnabhumi Airport - Esri Imagery
+Johor-	  Senai International Airport - MapBox Satellite
 Klang Valley-	    Sultan Abdul Azziz Shah Airport
 
 IN Progress:
