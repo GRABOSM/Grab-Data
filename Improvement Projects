@@ -8,13 +8,13 @@
  - Surabaya - Completed
  - Singapore - Completed
  - Palembang - Completed - Digiglobe Premium and ESRI
+ - Hanoi -Completed- Digiglobe standard
  
- - Naga - Completed- Entire city is in scope - Imagery used - DigiGlobe Standard
+ - Naga - Completed- Entire city is in scope - Imagery used - DigiGlobe 
+ - Tagaytay - Completed- Entire city is in scope - Imagery used - DigiGlobe
  
  
  ## Cities currently editing Inprogress - 
- - Hanoi - Specific areas served by Grab are in scope - Imagery used - Digiglobe standard
- - Tagaytay - Entire city is in scope - Imagery used - DigiGlobe Standard
  - Kaula lumpur - Specific areas served by Grab are in scope - Imagery used - ESRI and Digiglobe standard
 
 ## Improve osm map(~2kms-5kms radius) for specific Airports listed below:
@@ -38,12 +38,12 @@ Klang Valley-	Kuala Lumpur International Airport - Bing Aerial imagery
 Bangkok-	Suvarnabhumi Airport - Esri Imagery
 Johor-	  Senai International Airport - MapBox Satellite
 Klang Valley-	    Sultan Abdul Azziz Shah Airport - Esri Imagery
+Ho Chi Minh City-	Tan Son Nhat International Airport - Esri Imagery / Bing
+Penang-	          Penang International Airport - Esri Imagery
 
 IN Progress:
 Yangon-	          Yangon International Airport
 Phnom-            Phenh	Phnom Penh International Airport
-Ho Chi Minh City-	Tan Son Nhat International Airport
-Penang-	          Penang International Airport
 
 
 
