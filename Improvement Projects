@@ -26,8 +26,14 @@
  - San Fernando - Entire city is in scope
  - Semarang - Specific areas served by Grab are in scope - Imagery used- Bing and Mapbox
  
-
-## Improve osm map(~2kms-5kms radius) for specific Airports listed below:
+ ## Revisit cities
+ 
+ - Jakarta
+ - Bandung
+ - Hanoi
+ - Ho chi Minh
+ 
+ ## Improve osm map(~2kms-5kms radius) for specific Airports listed below:
 
 Completed:
 City | Airport Name | Status|Imagery used
@@ -51,6 +57,34 @@ Klang Valley-	    Sultan Abdul Azziz Shah Airport - Esri Imagery
 Ho Chi Minh City-	Tan Son Nhat International Airport - Esri Imagery / Bing
 Penang-	          Penang International Airport - Esri Imagery
 Yangon-	          Yangon International Airport - Esri Imagery
+
+
+## OSM Enhancement - New attribute addition
+
+Scope: Compare existing OSM map with open street cam and evaluate enhancemnet opportunities with reference to below
+mentioned attributes and make appropriate changes
+- Missing Roads
+- DOT - Direction of Travel
+- U -turn - Explicit U-turn possibility 
+- Intersections - Configuration and geometry fixes 
+- Restrictions - All turn restrictions except U-turn 
+- Street Names - Name of the street in osm Vs open street cam data
+- Lanes -  Lane count validated ( street cam vs OSM data)
+- Highway Signs - Sign boards representing name of highway
+- Speeds - Speed limit
+- Road priority - classification gaps
+- Turn lanes - Possible turns from an intersection
+
+Here are the list of cities in scope - 
+Yishun - Completed
+Punggol - Completed
+Sengkang - In Progress
+Hougang - YTS
+Buangkok - YTS
+
+
+
+
 
 
 
