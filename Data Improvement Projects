@@ -7,6 +7,7 @@ Improvements that will be addressed include the following:
 - Adding missing roads
 - Adjusting road alignment as per imagery and GPS traces
 - Validate existing tags like-  classification - Residential, Trunk, Motorway etc and attributes - Bridge, Tunnel, links etc.
+- Cities might be revisited basis new improvements and or internal requirement.
 
 Process Flow
 - Grab smoothened GPS traces(internal and non-downloadable file)
