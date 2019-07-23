@@ -9,4 +9,4 @@ Information about:
  
 
 Additional Information
-For more information, suggestions or questions contact our community lead [Lilian Quek](https://www.openstreetmap.org/user/Lilian%20Quek)
+For more information, suggestions or questions contact our Outreach and Community Manager, [Jinal Foflia](https://www.openstreetmap.org/user/jinalfoflia) or email her at jinal.foflia@grab.com
