@@ -1,4 +1,4 @@
-## Cities ( Specific areas served by Grab are in scope) edited in Indonesia:
+## Cities (Specific areas served by Grab are in scope) edited in Indonesia:
  - Jakarta - Completed
  - Medan - Completed
  - Bandung - Completed
@@ -17,7 +17,7 @@
  - Binalonan - Entire city is in scope
   - San Fernando - Entire city is in scope
  
- ## Cities currently editing Inprogress - 
+ ## Cities currently editing Inprogress
  
  - Bangkok -  Specific areas served by Grab are in scope - Imagery used- Bing and Digiglobe standard
  - Manila -  Specific areas served by Grab are in scope - Imagery used- Bing and Digiglobe standard - On Hold
@@ -98,7 +98,7 @@ Singapore - Completed
 Jakarta - In-Progress
 
 
-
+To know about the ongoing projects, please refer to the following [link](https://github.com/GRABOSM/Grab-Data/issues?q=is%3Aissue+is%3Aopen+label%3A%22In+Progress%22).
 
 
 
