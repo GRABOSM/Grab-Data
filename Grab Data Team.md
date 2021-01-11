@@ -1,8 +1,8 @@
 
 
-### The Grab Team Members - Regional: 
+## The Grab Team Members - Regional: 
 
-**Singapore:**
+### Singapore:
 
   | Name           | OSM User Name        |
   |----------------|----------------------|
@@ -21,7 +21,7 @@
   | Adrian Bong    | GrabSG_adrianbong    |
   | Linus Tan      | GrabSG_Linus         |
 
-**Philippines:** 
+### Philippines: 
 
   | Name                | OSM User Name     |
   |---------------------|-------------------|
@@ -44,7 +44,7 @@
   | Chester de Guzman   | GrabPHChester     |
   | Jayson Maceda       | GrabPHJayson      |
 
-**Malaysia:** 
+### Malaysia: 
 
   | Name                            | OSM User Name          |
   |---------------------------------|------------------------|
@@ -66,7 +66,7 @@
   | Nursyafiqah Zaini               | GrabMY_syafiqahzaini   |
   | Adam Zulkifli                   | GrabMY_AdamZulkifli    |
 
-**Indonesia:**
+### Indonesia: 
 
   | Name                           | OSM User Name   |
   |--------------------------------|-----------------|
@@ -91,7 +91,7 @@
   | Kokoh Widyastoro               | Kokoh Ws        |
   | Dika Nuzul Rachmawati          | dikanuzul       |
 
-**Thailand:** 
+### Thailand:
 
   | Name                       | OSM User Name            |
   |----------------------------|--------------------------|
@@ -115,7 +115,7 @@
   | Pimlada Veerapongawattana  | Pimlada Veerapongwattana |
   | Chanyaporn Pumiamorn       | Bambi Pumiamorn          |
 
-**Vietnam:** 
+### Vietnam:
 
   | Name                  | OSM User Name  |
   |-----------------------|----------------|
@@ -136,7 +136,7 @@
   | Mai Chí Đức           | Mai Chí Đức    |
   | Ngô Trần Phương Mai   | GrabVNMaiNgo   |
 
-**Myanmar:** 
+### Myanmar:
 
   | Name                   | OSM User Name          |
   |------------------------|------------------------|
@@ -145,7 +145,7 @@
   | Moe Htet Wai Yan Naing | Moe Htet Wai Yan Naing |
   | Zay Yar Htay           | Zay Yar Htay           |
 
-**Cambodia:** 
+### Cambodia:
 
   | Name                | OSM User Name   |
   |---------------------|-----------------|
@@ -156,7 +156,7 @@
   | Chhuy Sroeung       | Chhuy Sroeung   |
   | Sotthy Yeoung       | Sotthy          |
 
-**Bengaluru, India:** 
+### Bengaluru, India:
 
   | Name                       | OSM User Name       |
   |----------------------------|---------------------|
@@ -170,7 +170,7 @@
   | Abhishek Kumar Devarapally | Abhishekdevarapally |
   | Rupa Buela Mandala         | Rupa Buela          |
 
-**Cluj, Romania:**
+### Cluj, Romania:
 
   | Name                       | OSM User Name   |
   |----------------------------|-----------------|
@@ -193,7 +193,7 @@
   | Teodora Borodan            | teodora_grab    |
   | Viorel-Ionut Radu          | ionut_radu      |
 
-**Hyderabad, India:** 
+### Hyderabad, India: 
 
   | Name                       | OSM User Name                |
   |----------------------------|------------------------------|
