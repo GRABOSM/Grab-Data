@@ -388,8 +388,8 @@
 | Mushipatta Avinash Reddy|[mushipatta_avinash](https://www.openstreetmap.org/user/mushipatta_avinash)|
 | Divya Madgula|[divya_madgula](https://www.openstreetmap.org/user/divya_madgula)|
 | Kokku Madhu|[kokku_madhu](https://www.openstreetmap.org/user/kokku_madhu)|
-| Mulaka Jaipal Reddy |[mulaka_jaipal](https://www.openstreetmap.org/user/jaipal_reddy)|
-| Manjumatha Ganesan|[manjumatha_g](https://www.openstreetmap.org/user/manjumatha_g)|
+| Mulaka Jaipal Reddy |[ulaka_jaipal](https://www.openstreetmap.org/user/jaipal_reddy)|
+| Manjumatha Ganesan|[Manjumatha_G](https://www.openstreetmap.org/user/manjumatha_g)|
 | Ganesh Savergam|[ganesh_savergam](https://www.openstreetmap.org/user/ganesh_savergam)|
 | Prathipati Satishkumar|[prathipati_satish](https://www.openstreetmap.org/user/prathipati_satish)|
 | Peta Sandhya Devi|[peta_sandhya](https://www.openstreetmap.org/user/peta_sandhya)|
