@@ -413,3 +413,4 @@
 | Anamanagandla Chandana|[anamanagandla_chandana](https://www.openstreetmap.org/user/anamanagandla_chandana)|
 | Maddula Sai Charitha|[sai_charitha_maddula](https://www.openstreetmap.org/user/sai_charitha_maddula)|
 | Maddula Sai Kumar|[sai_kumar_maddula](https://www.openstreetmap.org/user/sai_kumar_maddula)|
+| Kuna Asha Jyothi|[asha_kuna](https://www.openstreetmap.org/user/asha_kuna)|
