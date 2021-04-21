@@ -359,7 +359,7 @@
 | Mohammad Nihad Ahmad   | [nihad_ahmad](https://www.openstreetmap.org/user/nihad_ahmad)|
 | Vijay Krishna Bashabathini | [vijay_krishna](https://www.openstreetmap.org/user/vijay_krishna)|
 | Bolli Vinay Kumar   | [bolli_vinay_kumar](https://www.openstreetmap.org/user/bolli_vinay_kumar)|
-| Nimmakaya Prasanna| [prasanna_n](https://www.openstreetmap.org/user/n_prasanna) |
+| Nimmakaya Prasanna| [n_prasanna](https://www.openstreetmap.org/user/n_prasanna) |
 | Kurva Nikhil Kumar | [nikhil_kumar](https://www.openstreetmap.org/user/nikhil_kumar)|
 | Purumandla Priyanka | [priyanka_p](https://www.openstreetmap.org/user/priyanka_p)|
 | Bhandari Srunjay Kumar   | [srunjay_kumar](https://www.openstreetmap.org/user/srunjay_kumar)|
@@ -368,7 +368,7 @@
 | Brahma Archana|[archana_b](https://www.openstreetmap.org/user/archana_b)|
 | Avancha Sharvani|[sharvani_a](https://www.openstreetmap.org/user/sharvani_a)|
 | Neelima Guthula|[neelima_g](https://www.openstreetmap.org/user/neelima_g)|
-| Syeda Sakina Fatima Naqvi | [syeda_fatima](https://www.openstreetmap.org/user/syeda_fatima)|
+| Syeda Sakina Fatima Naqvi | [Sakina Naqvi](https://www.openstreetmap.org/user/Sakina%20Naqvi)|
 | Chittaluri Srikanth|[srikanth_c](https://www.openstreetmap.org/user/srikanth_c)|
 | Kasani Veera Venkata Satya Bhavani|[satya_bhavani](https://www.openstreetmap.org/user/satya_bhavani)|
 | Kunapuli Sai Swathi|[swathi_k](https://www.openstreetmap.org/user/swathi_k)|
