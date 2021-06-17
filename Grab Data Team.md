@@ -354,7 +354,6 @@
 | Name      | OSM User name |
 | ----------- | ----------- |
 | Anem Mani Ratna Sai Prabhu Teja | [prabhu_teja](https://www.openstreetmap.org/user/prabhu_teja)|
-| Tudugani Chinna Mallesh | [tudugani_mallesh](https://www.openstreetmap.org/user/tudugani_mallesh)|
 | Mohammad Nihad Ahmad   | [nihad_ahmad](https://www.openstreetmap.org/user/nihad_ahmad)|
 | Nimmakaya Prasanna| [n_prasanna](https://www.openstreetmap.org/user/n_prasanna) |
 | Kurva Nikhil Kumar | [nikhil_kumar](https://www.openstreetmap.org/user/nikhil_kumar)|
