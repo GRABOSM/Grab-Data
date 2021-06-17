@@ -199,7 +199,6 @@
   |----------------------------|------------------------------|
   | Lavanya Challa                       | lchalla            |
   | Chandra Mouli                        | peruri             |
-  | Harish Puppala                       | harishpuppala      |
   | Karthik cheedella                    | karthi_ch          |
   | Aparna Jayadeepthi Uppala            | up_aparna          |
   | Manoj Attili                         | attili1            |
@@ -220,7 +219,6 @@
   | Ravalika Vallem                      | ravali_78          |
   | Dhanumuri Ajay naga Sairam           | dhanumuri          |
   | Mohd Viqaruddin Aleem                | alee_m             |
-  | Akhilvas Adunoori                    | Akhil_vas          |
   | Ajay Kumar Tirumali                  | aj_34              |
   | V.Lavanya Laxmi                      | farmal             |
   | Anusmitha Patnaik                    | anu_smita          |
@@ -250,7 +248,6 @@
   | Ch.Raghuram                          | ramrom             |
   | Chitralekha Patra                    | chitra1            |
   | Shanigala Divyasree                  | divya_sree         |
-  | Prudhviraj Marla                     | marla_1            |
   | Chitneni Manognya Poornima           | manog_nya          |
   | Priyanka Das                         | das2               |
   | S R Durga Prasad                     | pra_sad            |
@@ -294,8 +291,6 @@
   | Chaduvula Ramani                     | rama_ni            |
   | Chalumuri Pavani                     | pa_vani            |
   | Shaik Rahemunnisa                    | rah_em             |
-  | Peddi Vinod Kumar                    | vi_nod             |
-  | Battepati Sripriya                   | batte_pati         |
   | Barkut Rajashekar                    | bar_kut            |
   | Kandala Vineesha Reddy               | kan_dala           |
   | Pattlolla Manasa                     | pattlo_lla         |
@@ -318,7 +313,6 @@
   | Katla Uday kumar                     | katla_uday         |
   | Jonnakuti Kanthi Kumar               | jonna_kuti         |
   | Mittapally Lokeshwari                | lokesh_wari        |
-  | Guduri Swathi                        | swathi_guduri      |
   | Bonagiri Sahithi                     | sah_ithi           |
   | P Krishna Sandeep                    | san_deep           |
   | Surada Prakash Rao                   | pra_kash           |
