@@ -361,7 +361,6 @@
 | Syeda Sakina Fatima Naqvi | [Sakina Naqvi](https://www.openstreetmap.org/user/Sakina%20Naqvi)|
 | Chittaluri Srikanth|[srikanth_c](https://www.openstreetmap.org/user/srikanth_c)|
 | Kasani Veera Venkata Satya Bhavani|[satya_bhavani](https://www.openstreetmap.org/user/satya_bhavani)|
-| Kunapuli Sai Swathi|[swathi_k](https://www.openstreetmap.org/user/swathi_k)|
 | Thakur Durgabhavani|[durga_bhavani](https://www.openstreetmap.org/user/durga_bhavani)|
 | Dharam Harika|[harika_d](https://www.openstreetmap.org/user/harika_d)|
 | Uppu Shireesha|[shireesha_u](https://www.openstreetmap.org/user/shireesha_u)|
