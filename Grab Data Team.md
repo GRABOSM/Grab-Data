@@ -162,7 +162,6 @@
   |----------------------------|---------------------|
   | Poornima Badrinath         | poornibadrinath     |
   | Iqhra Aiman                | Iqhra               |
-  | Lingineni Naga Bhavana     | bhavana naga        |
   | Kelvin Mathew              | muziriana           |
   | Chethan Gowda              | Chetan_Gowda        |
   | Martha Leena               | Martha_Bonula       |
