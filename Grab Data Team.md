@@ -175,15 +175,12 @@
   |----------------------------|-----------------|
   | Adela-Ioana Moldovan       | ioana_moldovan  |
   | Alina-Manuela Negreanu     | alinanm         |
-  | Catalina-Georgiana Dascalu | catalina_d      |
   | Corina-Alexandra Govor     | corinag_grab    |
   | Daniela-Ana-Maria Rus      | daniela_grab    |
   | Danut Vasile Andron        | danut_grab      |
   | Georgiana-Bianca Hambasan  | biancah_grab    |
-  | Ina Irina Humeniuc         | ina_humeniuc    |
   | Liviu-Marian Poara         | marian_poara    |
   | Lorand Rat-Dioszegi        | rat_lorand_grab |
-  | Marina-Teodora Deac        | marina_d        |
   | Mihai-Florin Iepure        | mihaii_grab     |
   | Olivia-Bianca Robu         | oliviar_grab    |
   | Paul Nicoara               | paul_nicoara    |
