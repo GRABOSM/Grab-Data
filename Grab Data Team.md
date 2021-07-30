@@ -189,7 +189,7 @@
   | Teodora Borodan            | teodora_grab    |
   | Viorel-Ionut Radu          | ionut_radu      |
 
-### Hyderabad, India: 
+### Hyderabad-1, India: 
 
   | Name                       | OSM User Name                |
   |----------------------------|------------------------------|
@@ -302,8 +302,158 @@
   | Kummarikuntla Jagadeesh              | jd_309             |
   | Pasikanti Venugopal                  | venu_97            |
   | Chiluka ooha reddy                   | ooha_2             |
+  | Mallampalli Pradeep Raju    | mallampalli_123 |
+| Sowmya Nayani               |    Sowmya2021   |
+| Vemuri Benjamin Herald      |      v_ben      |
+| Sunny Dandu                 |      d_andu     |
+| Mudumala Rajeswari          |     mudumala    |
+| G Sravanthi                 |     sravs_01    |
+| Phani Kakaraparthi          |     phani_87    |
+| Manasa Devi Mantripragada   |    manasa_09    |
+| Shaik Riyaz                 |      shai_k     |
+| Syed Nadeem Ali             |      ali_01     |
+| Ganji Sumalatha             |     ganji_1     |
+| Thembaraveni Ravali         |     ravali_3    |
+| Shreyas Ladole              |     shre_yas    |
+| Mada Rasagna                |     rasag_na    |
+| Niranjan Yadav              |     anjan_y     |
+| S Komal Jeet Kaur           |      j_kaur     |
+| Mohammed Muzaffar           |      mm_19      |
+| silmarth bharath kumar      |     silma_1     |
+| Jayasri Naspuri             |     nas_puri    |
+| Chappidi Sravya             |    s_chappidi   |
+| M Abhi Sai Kiran            |      m_abhi     |
+| Mididoddi Sai Srikanth      |   Mididobbi_1   |
+| Chilam Praveen Kumar        |     chi_lam     |
+| Mohammad Naseeruddin        |    naseer_123   |
+| Chittimalla Rohith          |      ro_hit     |
+| Shek Chandini               |     ch_shek     |
+| vandana srinivas            |     van_vas     |
+| Nomula Bhavani              |     vani_001    |
+| Vattathara Madhu Monisha    |      isha01     |
+| Appikonda Lahari Padmaja    |      appik      |
+| Bompelli Rahul              |    bompalli_r   |
+| Rudra Sai Manikanta         |     rudra_m     |
+| Sirigiri Akhil Reddy        |     siri_ak     |
+| Mudigonda Karthik           |   mudigonda_1   |
+| Polisetty Harini            |    hari_setty   |
+| Sangita Saha                |     saha_123    |
+| Thatikonda Pavani           |     thati_p     |
+| Vudem Prashanth Reddy       |      vude_m     |
+| Shiva Jyothi                |      shi_va     |
+| Srvanthi Manikanta          |     kurthi_m    |
+| Saikrishnareddy dhanasiri   |    dhana_sari   |
+| Saka Venkat Sai Kumar       |      saka_1     |
+| Amuda Vamshikrishna         |     krish_a     |
+| vavilala srikanth           |    vavilala1    |
+| Yadlapati Rupini            |      y_rupi     |
+| Bollshetty Manish           |   boll_shetty   |
+| Naga Adithya Kaushik Ch     |      adi_ch     |
+| Prashanthi Peddireddy       |   prashan-thi   |
+| SIddi Sridhar               |     siddi_s     |
+| N Jhansi                    |      jan_1      |
+| Vaddi Tanmayee              |    tan_mayee    |
+| Vamshider Pannala           |     pannala     |
+| Chekalia Vijay              |    cheka_lia    |
+| Pappu Rajeshwari Subbalaxmi |      p_raj      |
+| Poturaju Stella             |     stella_1    |
+| Gilla Lokamaneshwar         |     lok_man     |
+| Chilveri Sai Krishna        |    chiliveri    |
+| Loya Ramachandra Rao        |      loya_1     |
+| Pabballa Soujanya           |    pabballa_1   |
+| Ghantasala Ravali           |    ravali_123   |
+| Pepakayala Vivek Naidu      |   pepa_kayala   |
+| Spandana Bethi              |      span_1     |
+| Boyini Srikanth             |     boyini01    |
+| Cheganti Prashanth          |    prashan_th   |
+| Dimmiti Raviteja            |     dimmiti     |
+| Kampasati Goutham           |    kampa_sati   |
+| keshireddy deepika          |     Deep_112    |
+| Bishwajit behari            |     behari1     |
+| Chinta Lakshmi Bhargavi     |    bhar_gavi    |
+| Kukunoor Premalatha         |     kuk_noor    |
+| Muthyala Prashanthi Devi    |    prashan_ti   |
+| Mohammed Allauddin          |   allauddin_1   |
+| srinivas kalyan reddy       |      k_vas      |
+| Bobbala Sravani             |   vani_bobbala  |
+| Darsi Beulah                |     beulah1     |
+| Kavya Rachakonda            |      ka_vya     |
+| pagadala yogeetha           |    yo_geetha    |
+| Chakra Thanuja              |     chakra01    |
+| Vamireddy Lakshman          |      vemi_r     |
+| Priya Premkumar             |    pri_ya123    |
+| Sravya Karike               |     karike_s    |
+| Syed Abdul Azeez            |     azeez007    |
+| Nagam Shiva Kumar Reddy     |    nagam_123    |
+| Ganjala lakshmi sreedurga   |      laxm_i     |
+| Govind Geetha               |     go_vind     |
+| Koutarapu Anuraag           |      koutar     |
+| Tummala Divya               |    tummala01    |
+| Bodigum Sravanthi           |     srav_gum    |
+| Chittibomma Pavankumar Goud |     bomma_1     |
+| Manoj Kumar                 |      mano_j     |
+| Madhusudhan Manuri          |    manuri_123   |
+| Gampala Chandana            |    chand_ana    |
+| cilveru mamatha             |    cilveru01    |
+| Manne Vamshi                |     manne_1     |
+| M Rakesh                    |      m_rak      |
+| Potnooru Divya              |     pot_noor    |
+| Guduri Sridevi              |      guduri     |
+| Peddapelli Sandeep          |   pedda_pelli   |
+| G Sasidharan                |     gnana_s     |
+| Gunnala Akhila              |    gunnala_a    |
+| Bhargavi keesari            |    keesari_1    |
+| Addu Vinay                  |      addu_v     |
+| Madiri Ravi Chandra         |      madiri     |
+| Adapa Sri Sai Vamsi Saketh  |      a_dapa     |
+| BHOOPATHI MOHAN SAI         |     bho_pati    |
+| chilkapalli sai tarun       |    chilka_10    |
+| K Maneesh Kumar             |     mani_sh5    |
+| Kammari Manasa              |     kam_man     |
+| Mohd Mohsin                 |     mo_hsin     |
+| P Saikiran Yadav            |     panja007    |
+| Pulimamidi Akhila           |   puli_mamidi   |
+| Sandhya Reddy               |   sandhya_123   |
+| Tandle Akash Kumar          |     tandle_1    |
+| Vislavath Sai Krishna Teja  |    vis_lavath   |
+| Kawle Sulochana             |    lochana_01   |
+| Panchamarthi Nagalaxmi      |   panchamarti   |
+| Saishekar Padala            |     pa_dala     |
+| G.Vamshi                    |     vam_shi     |
+| Pallati Dhanraj             |     pa_llati    |
+| Pathan Farheen Khanam       |     Kha_nam     |
+| Ananthula Vyshnavi          |      avyshu     |
+| S Spandana                  |    sspandana    |
+| Kalidindi sai siddhartha    |   ksiddhartha   |
+| Pendhota Snigdha            |    snigdha_97   |
+| Perala Madhuridevi          |     pera_la     |
+| Puram Nagaraju              |     naga_99     |
+| Kiran Yadav Jabbu           |     jab_ran     |
+| Manda Veera Raja Bhargav    |     bhar_gav    |
+| Gojala Navya Reddy          |     gojala_n    |
+| Naini Sai Kiran             |     naini_1     |
+| Chiluveru Saiteja           |     teja_ch     |
+| Lingala Shyam Kumar         |     linga_1     |
+| Kandavilli gowriprasanna    |      kprasu     |
+| Gattepally Mounika          |     mouni02     |
+| Lankapothu Eswar Reddy      |     eswar_l     |
+| Madasu Sanjana Sri          |    madasu007    |
+| Mariya kausar               |    kausar_01    |
+| Borampeta Sridhar Reddy     |      bora_s     |
+| Dyava Meghana               |     megh_ana    |
+| Thavudaboina Rajesh         |     boina_r     |
+| Sirikonda Datta Sai Rohan   |     k_datta     |
+| Yedulapuram Sahithi         |      y_sahi     |
+| G Vennela                   |     gan_ven     |
+| Dommeti Satish              |     Dom_meti    |
+| Arpitha                     |     arpit_a     |
+| Jyothikarrolla              |    karrolla_j   |
+| Ganguru Vivek               |     ganguru     |
+| Ariveni Bhavya              |    ariveni_b    |
+| Katkam Nandini              |     nandi_1     |
+| Kondati Ramya               |     ramya_k     |
 
-### Hyderabad, India 
+### Hyderabad-2, India 
 
 | Name      | OSM User name |
 | ----------- | ----------- |
