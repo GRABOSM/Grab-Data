@@ -198,45 +198,32 @@
   | Karthik cheedella                    | karthi_ch          |
   | Aparna Jayadeepthi Uppala            | up_aparna          |
   | Manoj Attili                         | attili1            |
-  | Syed Mohammad Zakriya                | zakriya1           |
-  | Venkata Durga Poornima               | poornima1          |
-  | Mutpuri Pravalika                    | mutpuri            |
   | N.Kishore                            | kis_hore           |
   | Sravya Kowkuntla                     | sravy              |
-  | Vijayalaxmi                          | togirigalu         |
-  | Hema Nadigatla                       | nadigatla          |
   | Madanu Radha                         | radha_madanu       |
-  | R Naik                               | naik4              |
   | Bhavya Kota                          | bhavyakota         |
   | P.Sujatha                            | sujatha_1          |
   | Deeksha Vangari                      | dee_ksha           |
   | Reena Soni                           | reenas             |
   | Yaramala.Vijay nagendra Reddy        | v_ijay             |
   | Ravalika Vallem                      | ravali_78          |
-  | Dhanumuri Ajay naga Sairam           | dhanumuri          |
   | Mohd Viqaruddin Aleem                | alee_m             |
   | Ajay Kumar Tirumali                  | aj_34              |
   | V.Lavanya Laxmi                      | farmal             |
   | Anusmitha Patnaik                    | anu_smita          |
   | Vattem Jyoshna                       | jyo_1              |
   | Kiranmai Pechetti                    | p_kiranmai         |
-  | Annareddy Roshan Kumar Reddy         | rosh_007           |
   | Bureddy Aravind                      | arav_ind           |
   | Bhavana Kodali                       | bhav_ana           |
-  | Saikrishna Ragula                    | ragula             |
-  | Dhanalakshmi majji                   | majji              |
   | Nathi Praveen                        | pra_veen           |
   | Arva Manasa Reddy                    | man_asa            |
-  | Siripurapu Tejasri                   | siripurapu         |
   | Kaje Vinitha Smith                   | kaje001            |
   | Matoori Mounika                      | matoori            |
   | D.M.V.Harish                         | div006             |
   | T.Sanjeev Kumar                      | sun_jeev           |
   | Harika.S                             | harikasid          |
-  | Kanapuram Tejasvi                    | tejas_vi           |
   | B.Rakesh                             | barigela           |
   | Veduruparthi Kanaka Deepthi          | deepthi1           |
-  | Raju Pavana Kumari                   | kumarip            |
   | Ruthik Dhoni                         | dhoni007           |
   | Triveni Kancharapu                   | triveni_3          |
   | Udem Praveen Reddy                   | pra_vin            |
@@ -245,18 +232,15 @@
   | Chitralekha Patra                    | chitra1            |
   | Shanigala Divyasree                  | divya_sree         |
   | Chitneni Manognya Poornima           | manog_nya          |
-  | Priyanka Das                         | das2               |
   | S R Durga Prasad                     | pra_sad            |
   | Tahasin Shaik                        | tahasin            |
   | V. Arvind                            | arvind_1           |
   | Srikanth Tadapelli                   | ts_kanth           |
   | Kommuri Bala Sugunapriyanka          | kommuri            |
-  | Hari Priyanka                        | pride_dara         |
   | Moilapally Akhil                     | moila              |
   | Vulasala Jayasree                    | vulasala           |
   | Ayyawar Srujan Kumar                 | Ayyawar            |
   | Syed Abrar Ahmed                     | syed               |
-  | Kabita Rani Sethi                    | kabi_ta            |
   | Chinthala Ramya                      | ch_ram             |
   | Gajawada Pravalika                   | p_ravalika         |
   | Gopu Pranusha                        | pranu_g            |
@@ -266,12 +250,8 @@
   | Lokendra Malle Naga Sai Durga Prasad | malle1             |
   | Manchikanti Thanmayee                | than_mayee         |
   | Mogali Sudarsana Sai                 | mog_ali            |
-  | R Praveen Kumar                      | praveen_11         |
   | Raavi Sairam                         | rams_r             |
-  | S Ashwin                             | ash_win            |
   | Sai Karthik Bonala                   | rthik007           |
-  | Thiruveedhi Mounika Rani             | thiru001           |
-  | Vemula Jyothi                        | jyothi1            |
   | Vinay Gaddam                         | vin029             |
   | Yerramaneni Harini                   | har_ini            |
   | Yasa Surendra Kumar                  | ya_sa              |
@@ -283,7 +263,6 @@
   | Bollepally Swetha                    | bolle_pally        |
   | Boddu Naresh Kumar                   | bo_dduk            |
   | Allam RameshKumar                    | all_am             |
-  | Gundrathi Dinesh Goud                | gundr_athi         |
   | Chaduvula Ramani                     | rama_ni            |
   | Chalumuri Pavani                     | pa_vani            |
   | Shaik Rahemunnisa                    | rah_em             |
@@ -291,7 +270,6 @@
   | Kandala Vineesha Reddy               | kan_dala           |
   | Pattlolla Manasa                     | pattlo_lla         |
   | Aswidhati Shiva Durga                | dur_ga             |
-  | Gudelli Srikanth                     | sri_kanth          |
   | B Divya Priya                        | div_priya          |
   | Animelli Anusha                      | ani_melli          |
   | Mohammed Afroz                       | af_roz             |
@@ -299,10 +277,7 @@
   | Chenagoni Vamshi kumar               | chena_goni         |
   | Shaik Areefullah                     | areef_03           |
   | Goteti Madhavi                       | madh_avi           |
-  | Govind Sai kumar                     | gov_ind            |
-  | Manepalli Padmavathi                 | padma_vathi        |
   | Chatla Anusha                        | anus_ha            |
-  | Gaddapola Anitha                     | ani_tha            |
   | Chinthakayala Mahender Raja          | chinthakayala_raja |
   | Pamarthi Krishna                     | pa_marthi          |
   | Naresh Erumalla                      | eru_malla          |
@@ -311,21 +286,12 @@
   | Mittapally Lokeshwari                | lokesh_wari        |
   | Bonagiri Sahithi                     | sah_ithi           |
   | P Krishna Sandeep                    | san_deep           |
-  | Surada Prakash Rao                   | pra_kash           |
   | Gunnampalli Raghavendra Reddy        | gunna_23           |
-  | Seema Thirumallesh                   | mall_esh           |
   | Regu Bhanu Chander                   | bha_nu             |
-  | Puntikura Deepika                    | deep_ika           |
-  | Upperpalli Teja                      | upper_palli        |
   | Gharisha Prudhvi Raj                 | ghar_07            |
-  | Pottepogu Victor Babu                | vic_tor            |
-  | Sairam Chowgoni                      | sai_ram            |
   | Ponnakanti Praveen Kumar             | ponna_kanti        |
   | Raksha Geethanjali                   | geetha_anjali      |
   | Gudla Narasimha Murthy               | mur_thy            |
-  | Ujjagiri Mahendra Venkatesh          | ujja_giri          |
-  | Akhila Ambertpet                     | a_akhila           |
-  | Preethi Lakkarsu                     | pree_thi           |
   | Arra Vinitha Reddy                   | vini_rdy           |
   | Madthala Manikanth                   | mani_04            |
   | J Vinay Kumar                        | vin_28             |
@@ -335,9 +301,7 @@
   | Anila Annaparthi                     | Anila_21           |
   | Kummarikuntla Jagadeesh              | jd_309             |
   | Pasikanti Venugopal                  | venu_97            |
-  | Kolli Rahul                          | kgr_7              |
   | Chiluka ooha reddy                   | ooha_2             |
-  | Medapati.sravanthi                   | divya_123          |
 
 ### Hyderabad, India 
 
