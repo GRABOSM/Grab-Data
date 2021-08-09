@@ -223,7 +223,6 @@
   | T.Sanjeev Kumar                      | sun_jeev           |
   | Harika.S                             | harikasid          |
   | B.Rakesh                             | barigela           |
-  | Veduruparthi Kanaka Deepthi          | deepthi1           |
   | Ruthik Dhoni                         | dhoni007           |
   | Triveni Kancharapu                   | triveni_3          |
   | Udem Praveen Reddy                   | pra_vin            |
@@ -273,7 +272,6 @@
   | B Divya Priya                        | div_priya          |
   | Animelli Anusha                      | ani_melli          |
   | Mohammed Afroz                       | af_roz             |
-  | Gorre Navya Sai Reddy                | nav_ya             |
   | Chenagoni Vamshi kumar               | chena_goni         |
   | Shaik Areefullah                     | areef_03           |
   | Goteti Madhavi                       | madh_avi           |
@@ -333,7 +331,6 @@
 | Vattathara Madhu Monisha    |      isha01     |
 | Appikonda Lahari Padmaja    |      appik      |
 | Bompelli Rahul              |    bompalli_r   |
-| Rudra Sai Manikanta         |     rudra_m     |
 | Sirigiri Akhil Reddy        |     siri_ak     |
 | Mudigonda Karthik           |   mudigonda_1   |
 | Polisetty Harini            |    hari_setty   |
@@ -379,7 +376,6 @@
 | Darsi Beulah                |     beulah1     |
 | Kavya Rachakonda            |      ka_vya     |
 | pagadala yogeetha           |    yo_geetha    |
-| Chakra Thanuja              |     chakra01    |
 | Vamireddy Lakshman          |      vemi_r     |
 | Priya Premkumar             |    pri_ya123    |
 | Sravya Karike               |     karike_s    |
@@ -419,13 +415,11 @@
 | Kawle Sulochana             |    lochana_01   |
 | Panchamarthi Nagalaxmi      |   panchamarti   |
 | Saishekar Padala            |     pa_dala     |
-| G.Vamshi                    |     vam_shi     |
 | Pallati Dhanraj             |     pa_llati    |
 | Pathan Farheen Khanam       |     Kha_nam     |
 | Ananthula Vyshnavi          |      avyshu     |
 | S Spandana                  |    sspandana    |
 | Kalidindi sai siddhartha    |   ksiddhartha   |
-| Pendhota Snigdha            |    snigdha_97   |
 | Perala Madhuridevi          |     pera_la     |
 | Puram Nagaraju              |     naga_99     |
 | Kiran Yadav Jabbu           |     jab_ran     |
@@ -460,7 +454,6 @@
 | Anem Mani Ratna Sai Prabhu Teja | [prabhu_teja](https://www.openstreetmap.org/user/prabhu_teja)|
 | Mohammad Nihad Ahmad   | [nihad_ahmad](https://www.openstreetmap.org/user/nihad_ahmad)|
 | Nimmakaya Prasanna| [n_prasanna](https://www.openstreetmap.org/user/n_prasanna) |
-| Kurva Nikhil Kumar | [nikhil_kumar](https://www.openstreetmap.org/user/nikhil_kumar)|
 | Purumandla Priyanka | [priyanka_p](https://www.openstreetmap.org/user/priyanka_p)|
 | Bhandari Srunjay Kumar   | [srunjay_kumar](https://www.openstreetmap.org/user/srunjay_kumar)|
 | S Babajee | [babajee_s](https://www.openstreetmap.org/user/babajee_s)|
