@@ -1,6 +1,4 @@
-
-
-# The Grab Team Members - Regional: 
+## The Grab Team Members - Regional: 
 
 ### Singapore:
 
@@ -226,7 +224,6 @@
   | Ruthik Dhoni                         | dhoni007           |
   | Triveni Kancharapu                   | triveni_3          |
   | Udem Praveen Reddy                   | pra_vin            |
-  | Kiran kumar Dakamuri                 | ki_ran             |
   | Ch.Raghuram                          | ramrom             |
   | Chitralekha Patra                    | chitra1            |
   | Shanigala Divyasree                  | divya_sree         |
@@ -287,7 +284,6 @@
   | Gunnampalli Raghavendra Reddy        | gunna_23           |
   | Regu Bhanu Chander                   | bha_nu             |
   | Gharisha Prudhvi Raj                 | ghar_07            |
-  | Ponnakanti Praveen Kumar             | ponna_kanti        |
   | Raksha Geethanjali                   | geetha_anjali      |
   | Gudla Narasimha Murthy               | mur_thy            |
   | Arra Vinitha Reddy                   | vini_rdy           |
@@ -313,7 +309,6 @@
 | Ganji Sumalatha             |     ganji_1     |
 | Thembaraveni Ravali         |     ravali_3    |
 | Shreyas Ladole              |     shre_yas    |
-| Mada Rasagna                |     rasag_na    |
 | Niranjan Yadav              |     anjan_y     |
 | S Komal Jeet Kaur           |      j_kaur     |
 | Mohammed Muzaffar           |      mm_19      |
@@ -355,7 +350,6 @@
 | Pappu Rajeshwari Subbalaxmi |      p_raj      |
 | Poturaju Stella             |     stella_1    |
 | Gilla Lokamaneshwar         |     lok_man     |
-| Chilveri Sai Krishna        |    chiliveri    |
 | Loya Ramachandra Rao        |      loya_1     |
 | Pabballa Soujanya           |    pabballa_1   |
 | Ghantasala Ravali           |    ravali_123   |
@@ -366,7 +360,6 @@
 | Dimmiti Raviteja            |     dimmiti     |
 | Kampasati Goutham           |    kampa_sati   |
 | keshireddy deepika          |     Deep_112    |
-| Bishwajit behari            |     behari1     |
 | Chinta Lakshmi Bhargavi     |    bhar_gavi    |
 | Kukunoor Premalatha         |     kuk_noor    |
 | Muthyala Prashanthi Devi    |    prashan_ti   |
@@ -402,19 +395,16 @@
 | Addu Vinay                  |      addu_v     |
 | Madiri Ravi Chandra         |      madiri     |
 | Adapa Sri Sai Vamsi Saketh  |      a_dapa     |
-| BHOOPATHI MOHAN SAI         |     bho_pati    |
 | chilkapalli sai tarun       |    chilka_10    |
 | K Maneesh Kumar             |     mani_sh5    |
 | Kammari Manasa              |     kam_man     |
 | Mohd Mohsin                 |     mo_hsin     |
 | P Saikiran Yadav            |     panja007    |
 | Pulimamidi Akhila           |   puli_mamidi   |
-| Sandhya Reddy               |   sandhya_123   |
 | Tandle Akash Kumar          |     tandle_1    |
 | Vislavath Sai Krishna Teja  |    vis_lavath   |
 | Kawle Sulochana             |    lochana_01   |
 | Panchamarthi Nagalaxmi      |   panchamarti   |
-| Saishekar Padala            |     pa_dala     |
 | Pallati Dhanraj             |     pa_llati    |
 | Pathan Farheen Khanam       |     Kha_nam     |
 | Ananthula Vyshnavi          |      avyshu     |
@@ -478,7 +468,6 @@
 | Akula Srinivas|[akula_srinivas](https://www.openstreetmap.org/user/akula_srinivas)|
 | Mushipatta Avinash Reddy|[mushipatta_avinash](https://www.openstreetmap.org/user/mushipatta_avinash)|
 | Kokku Madhu|[kokku_madhu](https://www.openstreetmap.org/user/kokku_madhu)|
-| Mulaka Jaipal Reddy |[ulaka_jaipal](https://www.openstreetmap.org/user/jaipal_reddy)|
 | Manjumatha Ganesan|[Manjumatha_G](https://www.openstreetmap.org/user/manjumatha_g)|
 | Prathipati Satishkumar|[prathipati_satish](https://www.openstreetmap.org/user/prathipati_satish)|
 | Peta Sandhya Devi|[peta_sandhya](https://www.openstreetmap.org/user/peta_sandhya)|
@@ -486,7 +475,6 @@
 | Kalva Ravikiran|[kalva_ravi](https://www.openstreetmap.org/user/kalva_ravi)|
 | Raparthi Madhuri|[raparthi_madhuri](https://www.openstreetmap.org/user/raparthi_madhuri)|
 | Shalini Diwan|[shalini-diwan](https://www.openstreetmap.org/user/shalini-diwan)|
-| Pendyala Abhi Ram Reddy|[pendyala_abhiram](https://www.openstreetmap.org/user/pendyala_abhiram)|
 | Bharath Balaraju|[bharath_b](https://www.openstreetmap.org/user/bharath_b)|
 | Chethana Subramanyam Purushotham Kumar|[chethana_sp](https://www.openstreetmap.org/user/chethana_sp)|
 | Syeda Balkhees Taj |[syeda_taj](https://www.openstreetmap.org/user/syeda_taj)|
