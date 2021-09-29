@@ -41,6 +41,7 @@
   | Vince del Mundo     | GrabPHVince       |
   | Chester de Guzman   | GrabPHChester     |
   | Jayson Maceda       | GrabPHJayson      |
+  | Mark Rodgid Gaa     | GrabPHOgid        |
 
 ### Malaysia: 
 
@@ -117,22 +118,18 @@
 
   | Name                  | OSM User Name  |
   |-----------------------|----------------|
-  | Trần Hương Liên       |                |
-  | Nguyễn Dư Tuyết Nhi   | NgDu Tuyet Nhi |
-  | Lê Minh Nghĩa         | MinhNghia      |
-  | Đinh Tùng Vĩ          | Vi Dinh        |
-  | Trần Huỳnh Trúc Vy    | TrucVy         |
-  | Đặng Thịnh Hưng       | HungDang3113   |
-  | Văn Thị Ngọc Linh     | LinhVan        |
-  | Đỗ Vương Thế Thục Anh | AnhDo          |
-  | Võ Trần Thế Vĩ        | Thế Vĩ         |
-  | Võ Kim Thành          | Võ Kim Thành   |
-  | Nguyễn Thanh Tuấn     | tuanntt        |
-  | Lê Nhật Tân           | Le Nhat Tan    |
-  | Lê Hoàng Phú Khang    | Phu Khang      |
-  | Đỗ Minh Thư           | Minh Thu       |
-  | Mai Chí Đức           | Mai Chí Đức    |
-  | Ngô Trần Phương Mai   | GrabVNMaiNgo   |
+  | Nguyễn Dư Tuyết Nhi	  | GrabVN_Nhi     |
+  | Ngô Trần Phương Mai	  | GrabVNMaiNgo   |
+  | Nguyễn Thanh Tuấn 	  | GrabVN-Nguyen Thanh Tuan 	|
+  | Lê Thị Quỳnh Như  	  | GrabVN-Nhu     |
+  | Võ Hoàng Đỉnh     	  | GrabVN_DinhVo  |
+  | Nguyễn Trung Kiên 	  | GrabVN_Kien    |
+  | Phan Thục Yến     	  | GrabVN_Yen     |
+  | Nguyễn Trương Phụng Nhi | GrabVN_PhungNhi  	|
+  | Lê Thị Ánh Linh       | Grab_Ánh Linh Lê |
+  | Lưu Bích Liên         | GrabVN-Lienluu   |
+  | Hà Thu Phương         | GrabVN_Phuong    |
+  | Đỗ Minh Phụng         | GrabVN-phungdo   |
 
 ### Myanmar:
 
@@ -176,16 +173,16 @@
   | Corina-Alexandra Govor     | corinag_grab    |
   | Daniela-Ana-Maria Rus      | daniela_grab    |
   | Danut Vasile Andron        | danut_grab      |
-  | Georgiana-Bianca Hambasan  | biancah_grab    |
-  | Liviu-Marian Poara         | marian_poara    |
   | Lorand Rat-Dioszegi        | rat_lorand_grab |
   | Mihai-Florin Iepure        | mihaii_grab     |
   | Olivia-Bianca Robu         | oliviar_grab    |
   | Paul Nicoara               | paul_nicoara    |
-  | Petra Rajka                | petrar_grab     |
-  | Szilard Kacso              | szilardk_grab   |
   | Teodora Borodan            | teodora_grab    |
   | Viorel-Ionut Radu          | ionut_radu      |
+  | Larisa Tamasi  	           | Larisa_Tamasi   	|
+  | Mihai Benta  	             | MihaiBenta94    	|
+  | Andreia Cadar	             | AndreiaCadar    	|
+  | Goia Florin 	             | floringoia_grab 	|
 
 ### Hyderabad-1, India: 
 
@@ -207,7 +204,6 @@
   | Ravalika Vallem                      | ravali_78          |
   | Mohd Viqaruddin Aleem                | alee_m             |
   | Ajay Kumar Tirumali                  | aj_34              |
-  | V.Lavanya Laxmi                      | farmal             |
   | Anusmitha Patnaik                    | anu_smita          |
   | Vattem Jyoshna                       | jyo_1              |
   | Kiranmai Pechetti                    | p_kiranmai         |
@@ -229,7 +225,6 @@
   | Shanigala Divyasree                  | divya_sree         |
   | Chitneni Manognya Poornima           | manog_nya          |
   | S R Durga Prasad                     | pra_sad            |
-  | Tahasin Shaik                        | tahasin            |
   | V. Arvind                            | arvind_1           |
   | Srikanth Tadapelli                   | ts_kanth           |
   | Kommuri Bala Sugunapriyanka          | kommuri            |
@@ -248,13 +243,11 @@
   | Mogali Sudarsana Sai                 | mog_ali            |
   | Raavi Sairam                         | rams_r             |
   | Sai Karthik Bonala                   | rthik007           |
-  | Vinay Gaddam                         | vin029             |
   | Yerramaneni Harini                   | har_ini            |
   | Yasa Surendra Kumar                  | ya_sa              |
   | Nagabothu Alekhya                    | alek_hya           |
   | Vididhineni Prudvi                   | pru_dvi            |
   | Matam Pavani                         | ma_tam             |
-  | Pothula S S Santhosh Manikanteswara  | pothu_la           |
   | Narimalla Ramesh                     | nari_malla         |
   | Bollepally Swetha                    | bolle_pally        |
   | Boddu Naresh Kumar                   | bo_dduk            |
@@ -291,7 +284,6 @@
   | J Vinay Kumar                        | vin_28             |
   | Nadipalli Maruthi Naga Sai Krishna   | sai_332            |
   | Vootla Vinod                         | vin_7              |
-  | Suchendra Chillaluru                 | suchen_dra         |
   | Anila Annaparthi                     | Anila_21           |
   | Kummarikuntla Jagadeesh              | jd_309             |
   | Pasikanti Venugopal                  | venu_97            |
@@ -325,7 +317,6 @@
 | Nomula Bhavani              |     vani_001    |
 | Vattathara Madhu Monisha    |      isha01     |
 | Appikonda Lahari Padmaja    |      appik      |
-| Bompelli Rahul              |    bompalli_r   |
 | Sirigiri Akhil Reddy        |     siri_ak     |
 | Mudigonda Karthik           |   mudigonda_1   |
 | Polisetty Harini            |    hari_setty   |
@@ -339,17 +330,14 @@
 | Amuda Vamshikrishna         |     krish_a     |
 | vavilala srikanth           |    vavilala1    |
 | Yadlapati Rupini            |      y_rupi     |
-| Bollshetty Manish           |   boll_shetty   |
 | Naga Adithya Kaushik Ch     |      adi_ch     |
 | Prashanthi Peddireddy       |   prashan-thi   |
 | SIddi Sridhar               |     siddi_s     |
-| N Jhansi                    |      jan_1      |
 | Vaddi Tanmayee              |    tan_mayee    |
 | Vamshider Pannala           |     pannala     |
 | Chekalia Vijay              |    cheka_lia    |
 | Pappu Rajeshwari Subbalaxmi |      p_raj      |
 | Poturaju Stella             |     stella_1    |
-| Gilla Lokamaneshwar         |     lok_man     |
 | Loya Ramachandra Rao        |      loya_1     |
 | Pabballa Soujanya           |    pabballa_1   |
 | Ghantasala Ravali           |    ravali_123   |
@@ -360,19 +348,15 @@
 | Dimmiti Raviteja            |     dimmiti     |
 | Kampasati Goutham           |    kampa_sati   |
 | keshireddy deepika          |     Deep_112    |
-| Chinta Lakshmi Bhargavi     |    bhar_gavi    |
 | Kukunoor Premalatha         |     kuk_noor    |
 | Muthyala Prashanthi Devi    |    prashan_ti   |
 | Mohammed Allauddin          |   allauddin_1   |
 | srinivas kalyan reddy       |      k_vas      |
-| Bobbala Sravani             |   vani_bobbala  |
-| Darsi Beulah                |     beulah1     |
 | Kavya Rachakonda            |      ka_vya     |
 | pagadala yogeetha           |    yo_geetha    |
 | Vamireddy Lakshman          |      vemi_r     |
 | Priya Premkumar             |    pri_ya123    |
 | Sravya Karike               |     karike_s    |
-| Syed Abdul Azeez            |     azeez007    |
 | Nagam Shiva Kumar Reddy     |    nagam_123    |
 | Ganjala lakshmi sreedurga   |      laxm_i     |
 | Govind Geetha               |     go_vind     |
@@ -399,13 +383,11 @@
 | K Maneesh Kumar             |     mani_sh5    |
 | Kammari Manasa              |     kam_man     |
 | Mohd Mohsin                 |     mo_hsin     |
-| P Saikiran Yadav            |     panja007    |
 | Pulimamidi Akhila           |   puli_mamidi   |
 | Tandle Akash Kumar          |     tandle_1    |
 | Vislavath Sai Krishna Teja  |    vis_lavath   |
 | Kawle Sulochana             |    lochana_01   |
 | Panchamarthi Nagalaxmi      |   panchamarti   |
-| Pallati Dhanraj             |     pa_llati    |
 | Pathan Farheen Khanam       |     Kha_nam     |
 | Ananthula Vyshnavi          |      avyshu     |
 | S Spandana                  |    sspandana    |
@@ -454,9 +436,7 @@
 | Syeda Sakina Fatima Naqvi | [Sakina Naqvi](https://www.openstreetmap.org/user/Sakina%20Naqvi)|
 | Chittaluri Srikanth|[srikanth_c](https://www.openstreetmap.org/user/srikanth_c)|
 | Kasani Veera Venkata Satya Bhavani|[satya_bhavani](https://www.openstreetmap.org/user/satya_bhavani)|
-| Thakur Durgabhavani|[durga_bhavani](https://www.openstreetmap.org/user/durga_bhavani)|
 | Dharam Harika|[harika_d](https://www.openstreetmap.org/user/harika_d)|
-| Uppu Shireesha|[shireesha_u](https://www.openstreetmap.org/user/shireesha_u)|
 | Govula Manjula | [manjula_g](https://www.openstreetmap.org/user/manjula_g)|
 | Mahesh Amandu | [mahesh_a](https://www.openstreetmap.org/user/mahesh_a)|
 | Arlagadda Sunanda Udayabhanu|[sunanda_a](https://www.openstreetmap.org/user/sunanda_a)|
