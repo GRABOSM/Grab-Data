@@ -50,7 +50,7 @@
   | Mohd Afzanizam Muhammad Sabirin | Afzanizam              |
   | Faizatul Ashikin Shamsul        | GrabMY_ashikinshamshul |
   | Winnie Tang                     | GrabMY_winnietang      |
-  | Mohd Iswan Ismail               | IS87                   |
+  | Mohd Iswan Ismail               | Mohd Iswan             |
   | Mohd Farid Yaakob               | GrabMY_FaridYaakob     |
   | Mohd Faiz Moh Djamil            | Faiz Djamil            |
   | Nurmalina Zainal Abidin         | MalinaZainal           |
@@ -471,7 +471,7 @@
 |            Shaik Sabira            	|     [Shaik_Sabira](https://www.openstreetmap.org/user/asha_kuna)    	|
 |     Vadalapalli Venkata Kalyan     	|    [venkata_kalyan](https://www.openstreetmap.org/user/venkata_kalyan)  	|
 | Vikramsingh Raiwatsingh Rajpurohit 	|       [Vikram_R](https://www.openstreetmap.org/user/Vikram_R)    	|
-|           Niveditha Polu           	|    [niveditha_polu]https://www.openstreetmap.org/user/niveditha_polu)  	|
+|           Niveditha Polu           	|    [niveditha_polu](https://www.openstreetmap.org/user/niveditha_polu)  	|
 |          Vadlamani Chakra          	|   [vadlamani_chakra](https://www.openstreetmap.org/user/vadlamani_chakra) 	|
 |         Deepanjali Thoutam         	|  [deepanjali_thoutam](https://www.openstreetmap.org/user/deepanjali_thoutam)	|
 |         Pooja Sandur Nagraj        	| [pooja_sandur_nagraj](https://www.openstreetmap.org/user/pooja_sandur_nagraj)	|
