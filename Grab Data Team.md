@@ -51,7 +51,7 @@
   | Faizatul Ashikin Shamsul        | GrabMY_ashikinshamshul |
   | Winnie Tang                     | GrabMY_winnietang      |
   | Mohd Iswan Ismail               | IS87                   |
-  | Mohd Farid Yaakob               | mohdFY                 |
+  | Mohd Farid Yaakob               | GrabMY_FaridYaakob     |
   | Mohd Faiz Moh Djamil            | Faiz Djamil            |
   | Nurmalina Zainal Abidin         | MalinaZainal           |
   | Nur 'Atikah Md Nasrudin         | GrabMY_AtikahNasrudin  |
@@ -64,6 +64,8 @@
   | Maryam Abu Bakar                | GrabMY_maryamabu       |
   | Nursyafiqah Zaini               | GrabMY_syafiqahzaini   |
   | Adam Zulkifli                   | GrabMY_AdamZulkifli    |
+  | Irfan Zahid Ahmad Zaini         | GrabMY_Irfan Zahid     |
+  | Siti Zulhusna Binti Zulkefli    | GrabMY_SitiZulhusna    |
 
 ### Indonesia: 
 
@@ -87,8 +89,7 @@
   | Dyah Darmawan                  | dyahdarmawan    |
   | Utami Gendis Setyorini         | utami_setyorini |
   | sri.wijoyosastro               | rohman_w        |
-  | Kokoh Widyastoro               | Kokoh Ws        |
-  | Dika Nuzul Rachmawati          | dikanuzul       |
+ 
 
 ### Thailand:
 
@@ -137,7 +138,7 @@
   |------------------------|------------------------|
   | Phone Khant Kyaw       | Phone Khant Kyaw       |
   | William Maung          | William Maung          |
-  | Moe Htet Wai Yan Naing | Moe Htet Wai Yan Naing |
+  | Sithu Aung             | Sithu Ag               |
   | Zay Yar Htay           | Zay Yar Htay           |
 
 ### Cambodia:
@@ -155,10 +156,9 @@
 
   | Name                       | OSM User Name       |
   |----------------------------|---------------------|
-  | Poornima Badrinath         | poornibadrinath     |
   | Iqhra Aiman                | Iqhra               |
   | Kelvin Mathew              | muziriana           |
-  | Chethan Gowda              | Chetan_Gowda        |
+  | Chetan Gowda               | Chetan_Gowda        |
   | Martha Leena               | Martha_Bonula       |
   | Kamal Deepth Vemuganti     | kdvemuganti         |
   | Abhishek Kumar Devarapally | Abhishekdevarapally |
@@ -468,3 +468,19 @@
 | Anamanagandla Chandana|[anamanagandla_chandana](https://www.openstreetmap.org/user/anamanagandla_chandana)|
 | Maddula Sai Charitha|[sai_charitha_maddula](https://www.openstreetmap.org/user/sai_charitha_maddula)|
 | Kuna Asha Jyothi|[asha_kuna](https://www.openstreetmap.org/user/asha_kuna)|
+|            Shaik Sabira            	|     [Shaik_Sabira](https://www.openstreetmap.org/user/asha_kuna)    	|
+|     Vadalapalli Venkata Kalyan     	|    [venkata_kalyan](https://www.openstreetmap.org/user/venkata_kalyan)  	|
+| Vikramsingh Raiwatsingh Rajpurohit 	|       [Vikram_R](https://www.openstreetmap.org/user/Vikram_R)    	|
+|           Niveditha Polu           	|    [niveditha_polu]https://www.openstreetmap.org/user/niveditha_polu)  	|
+|          Vadlamani Chakra          	|   [vadlamani_chakra](https://www.openstreetmap.org/user/vadlamani_chakra) 	|
+|         Deepanjali Thoutam         	|  [deepanjali_thoutam](https://www.openstreetmap.org/user/deepanjali_thoutam)	|
+|         Pooja Sandur Nagraj        	| [pooja_sandur_nagraj](https://www.openstreetmap.org/user/pooja_sandur_nagraj)	|
+|      Mohammad Muzammil Qureshi     	|   [muzammil_qureshi](https://www.openstreetmap.org/user/muzammil_qureshi) 	|
+|           Gouthami Parasa          	|   [Gouthami_Parasa](https://www.openstreetmap.org/user/Gouthami_Parasa)  	|
+|       Cingaram Praveen Kumar       	|   [praveen_cingaram](https://www.openstreetmap.org/user/praveen_cingaram)  	|
+|       Prateek Prashant Joshi       	|    [Prateek_Joshi](https://www.openstreetmap.org/user/Prateek_Joshi)   	|
+|          Arun Kumar Zadda          	|   [zadda_arunkumar](https://www.openstreetmap.org/user/zadda_arunkumar)   	|
+|      Rachana S Krishna Murthy      	|    [rachana_murthy](https://www.openstreetmap.org/user/rachana_murthy)   	|
+|            D Gouse Peera           	|     [Gouse-peera](https://www.openstreetmap.org/user/Gouse-peera)    	|
+|       Jammigumpala Govardhini      	|     [govardhini_j](https://www.openstreetmap.org/user/govardhini_j)    	|
+|           Kuna Pranahitha          	|   [pranahitha_kuna](https://www.openstreetmap.org/user/pranahitha_kuna)  	|
