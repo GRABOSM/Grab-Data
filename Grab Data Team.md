@@ -161,7 +161,6 @@
   | Chetan Gowda               | Chetan_Gowda        |
   | Martha Leena               | Martha_Bonula       |
   | Kamal Deepth Vemuganti     | kdvemuganti         |
-  | Abhishek Kumar Devarapally | Abhishekdevarapally |
   | Rupa Buela Mandala         | Rupa Buela          |
 
 ### Cluj, Romania:
@@ -183,6 +182,8 @@
   | Mihai Benta  	             | MihaiBenta94    	|
   | Andreia Cadar	             | AndreiaCadar    	|
   | Goia Florin 	             | floringoia_grab 	|
+  | Violeta Stieger            | violettas_grab   |
+  | Cosmin Ghisa               | cghisa_grab |
 
 ### Hyderabad-1, India: 
 
@@ -217,7 +218,6 @@
   | Triveni Kancharapu                   | triveni_3          |
   | Udem Praveen Reddy                   | pra_vin            |
   | Ch.Raghuram                          | ramrom             |
-  | Chitralekha Patra                    | chitra1            |
   | Shanigala Divyasree                  | divya_sree         |
   | S R Durga Prasad                     | pra_sad            |
   | V. Arvind                            | arvind_1           |
@@ -237,19 +237,13 @@
   | Manchikanti Thanmayee                | than_mayee         |
   | Mogali Sudarsana Sai                 | mog_ali            |
   | Raavi Sairam                         | rams_r             |
-  | Sai Karthik Bonala                   | rthik007           |
   | Yasa Surendra Kumar                  | ya_sa              |
-  | Nagabothu Alekhya                    | alek_hya           |
   | Vididhineni Prudvi                   | pru_dvi            |
-  | Matam Pavani                         | ma_tam             |
   | Narimalla Ramesh                     | nari_malla         |
   | Bollepally Swetha                    | bolle_pally        |
   | Boddu Naresh Kumar                   | bo_dduk            |
   | Chaduvula Ramani                     | rama_ni            |
   | Chalumuri Pavani                     | pa_vani            |
-  | Shaik Rahemunnisa                    | rah_em             |
-  | Barkut Rajashekar                    | bar_kut            |
-  | Kandala Vineesha Reddy               | kan_dala           |
   | Pattlolla Manasa                     | pattlo_lla         |
   | Aswidhati Shiva Durga                | dur_ga             |
   | B Divya Priya                        | div_priya          |
@@ -259,9 +253,7 @@
   | Shaik Areefullah                     | areef_03           |
   | Goteti Madhavi                       | madh_avi           |
   | Chinthakayala Mahender Raja          | chinthakayala_raja |
-  | Pamarthi Krishna                     | pa_marthi          |
   | Naresh Erumalla                      | eru_malla          |
-  | Katla Uday kumar                     | katla_uday         |
   | Jonnakuti Kanthi Kumar               | jonna_kuti         |
   | Mittapally Lokeshwari                | lokesh_wari        |
   | Bonagiri Sahithi                     | sah_ithi           |
@@ -271,7 +263,6 @@
   | Gharisha Prudhvi Raj                 | ghar_07            |
   | Raksha Geethanjali                   | geetha_anjali      |
   | Gudla Narasimha Murthy               | mur_thy            |
-  | Arra Vinitha Reddy                   | vini_rdy           |
   | Madthala Manikanth                   | mani_04            |
   | J Vinay Kumar                        | vin_28             |
   | Vootla Vinod                         | vin_7              |
@@ -279,16 +270,13 @@
   | Kummarikuntla Jagadeesh              | jd_309             |
   | Chiluka ooha reddy                   | ooha_2             |
   | Mallampalli Pradeep Raju    | mallampalli_123 |
-| Sowmya Nayani               |    Sowmya2021   |
 | Vemuri Benjamin Herald      |      v_ben      |
 | Sunny Dandu                 |      d_andu     |
 | Mudumala Rajeswari          |     mudumala    |
 | G Sravanthi                 |     sravs_01    |
 | Phani Kakaraparthi          |     phani_87    |
 | Manasa Devi Mantripragada   |    manasa_09    |
-| Shaik Riyaz                 |      shai_k     |
 | Syed Nadeem Ali             |      ali_01     |
-| Ganji Sumalatha             |     ganji_1     |
 | Thembaraveni Ravali         |     ravali_3    |
 | Shreyas Ladole              |     shre_yas    |
 | Niranjan Yadav              |     anjan_y     |
@@ -309,7 +297,6 @@
 | Mudigonda Karthik           |   mudigonda_1   |
 | Polisetty Harini            |    hari_setty   |
 | Sangita Saha                |     saha_123    |
-| Thatikonda Pavani           |     thati_p     |
 | Vudem Prashanth Reddy       |      vude_m     |
 | Shiva Jyothi                |      shi_va     |
 | Srvanthi Manikanta          |     kurthi_m    |
@@ -325,11 +312,9 @@
 | Chekalia Vijay              |    cheka_lia    |
 | Pappu Rajeshwari Subbalaxmi |      p_raj      |
 | Poturaju Stella             |     stella_1    |
-| Loya Ramachandra Rao        |      loya_1     |
 | Pabballa Soujanya           |    pabballa_1   |
 | Ghantasala Ravali           |    ravali_123   |
 | Pepakayala Vivek Naidu      |   pepa_kayala   |
-| Spandana Bethi              |      span_1     |
 | Boyini Srikanth             |     boyini01    |
 | Cheganti Prashanth          |    prashan_th   |
 | Dimmiti Raviteja            |     dimmiti     |
@@ -349,8 +334,6 @@
 | Govind Geetha               |     go_vind     |
 | Koutarapu Anuraag           |      koutar     |
 | Tummala Divya               |    tummala01    |
-| Bodigum Sravanthi           |     srav_gum    |
-| Chittibomma Pavankumar Goud |     bomma_1     |
 | Manoj Kumar                 |      mano_j     |
 | Madhusudhan Manuri          |    manuri_123   |
 | cilveru mamatha             |    cilveru01    |
@@ -368,14 +351,12 @@
 | Kammari Manasa              |     kam_man     |
 | Mohd Mohsin                 |     mo_hsin     |
 | Pulimamidi Akhila           |   puli_mamidi   |
-| Tandle Akash Kumar          |     tandle_1    |
 | Vislavath Sai Krishna Teja  |    vis_lavath   |
 | Kawle Sulochana             |    lochana_01   |
 | Panchamarthi Nagalaxmi      |   panchamarti   |
 | Pathan Farheen Khanam       |     Kha_nam     |
 | S Spandana                  |    sspandana    |
 | Kalidindi sai siddhartha    |   ksiddhartha   |
-| Perala Madhuridevi          |     pera_la     |
 | Puram Nagaraju              |     naga_99     |
 | Kiran Yadav Jabbu           |     jab_ran     |
 | Manda Veera Raja Bhargav    |     bhar_gav    |
@@ -385,17 +366,13 @@
 | Lingala Shyam Kumar         |     linga_1     |
 | Kandavilli gowriprasanna    |      kprasu     |
 | Gattepally Mounika          |     mouni02     |
-| Lankapothu Eswar Reddy      |     eswar_l     |
-| Mariya kausar               |    kausar_01    |
 | Borampeta Sridhar Reddy     |      bora_s     |
-| Dyava Meghana               |     megh_ana    |
 | Thavudaboina Rajesh         |     boina_r     |
 | Sirikonda Datta Sai Rohan   |     k_datta     |
 | Yedulapuram Sahithi         |      y_sahi     |
 | G Vennela                   |     gan_ven     |
 | Dommeti Satish              |     Dom_meti    |
 | Arpitha                     |     arpit_a     |
-| Ganguru Vivek               |     ganguru     |
 | Ariveni Bhavya              |    ariveni_b    |
 | Katkam Nandini              |     nandi_1     |
 | Kondati Ramya               |     ramya_k     |
@@ -423,14 +400,12 @@
 | Jayanthi|[jayanthi_j](https://www.openstreetmap.org/user/jayanthi_j)|
 | Boge Suma Sree |[suma_sree](https://www.openstreetmap.org/user/suma_sree)|
 | Neeli Srikanth|[neeli_srikanth](https://www.openstreetmap.org/user/neeli_srikanth)|
-| Epallagudem Akhil Kumar Chary|[akhil_kumar](https://www.openstreetmap.org/user/akhil_kumar)|
 | Akula Srinivas|[akula_srinivas](https://www.openstreetmap.org/user/akula_srinivas)|
 | Mushipatta Avinash Reddy|[mushipatta_avinash](https://www.openstreetmap.org/user/mushipatta_avinash)|
 | Manjumatha Ganesan|[Manjumatha_G](https://www.openstreetmap.org/user/manjumatha_g)|
 | Prathipati Satishkumar|[prathipati_satish](https://www.openstreetmap.org/user/prathipati_satish)|
 | Peta Sandhya Devi|[peta_sandhya](https://www.openstreetmap.org/user/peta_sandhya)|
 | Azhar Mohiddin Shaik|[azhar_shaik](https://www.openstreetmap.org/user/azhar_shaik)|
-| Kalva Ravikiran|[kalva_ravi](https://www.openstreetmap.org/user/kalva_ravi)|
 | Raparthi Madhuri|[raparthi_madhuri](https://www.openstreetmap.org/user/raparthi_madhuri)|
 | Shalini Diwan|[shalini-diwan](https://www.openstreetmap.org/user/shalini-diwan)|
 | Bharath Balaraju|[bharath_b](https://www.openstreetmap.org/user/bharath_b)|
@@ -455,13 +430,11 @@
 |      Mohammad Muzammil Qureshi     	|   [muzammil_qureshi](https://www.openstreetmap.org/user/muzammil_qureshi) 	|
 |           Gouthami Parasa          	|   [Gouthami_Parasa](https://www.openstreetmap.org/user/Gouthami_Parasa)  	|
 |       Cingaram Praveen Kumar       	|   [praveen_cingaram](https://www.openstreetmap.org/user/praveen_cingaram)  	|
-|       Prateek Prashant Joshi       	|    [Prateek_Joshi](https://www.openstreetmap.org/user/Prateek_Joshi)   	|
 |          Arun Kumar Zadda          	|   [zadda_arunkumar](https://www.openstreetmap.org/user/zadda_arunkumar)   	|
 |      Rachana S Krishna Murthy      	|    [rachana_murthy](https://www.openstreetmap.org/user/rachana_murthy)   	|
 |            D Gouse Peera           	|     [Gouse-peera](https://www.openstreetmap.org/user/Gouse-peera)    	|
 |       Jammigumpala Govardhini      	|     [govardhini_j](https://www.openstreetmap.org/user/govardhini_j)    	|
 |           Kuna Pranahitha          	|   [pranahitha_kuna](https://www.openstreetmap.org/user/pranahitha_kuna)  	|
 |Yashwanth Singh                      | [yashwanth_singh](https://www.openstreetmap.org/user/yashwanth_singh)|
-|Anitha Thanagala                     | [anitha_thanagala](https://www.openstreetmap.org/user/anitha_thanagala) |
 |Kolli Venkatesh                      | [KOLLI_VENKATESH](https://www.openstreetmap.org/user/KOLLI_VENKATESH)
-|Marthi Anvesh                        | [Anvesh_Marthi](https://www.openstreetmap.org/user/Anvesh_Marth)|
+|Marthi Anvesh                        | [Anvesh_Marthi](https://www.openstreetmap.org/user/Anvesh_Marthi)|
