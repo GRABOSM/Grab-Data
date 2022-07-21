@@ -93,27 +93,21 @@
 
 ### Thailand:
 
-  | Name                       | OSM User Name            |
-  |----------------------------|--------------------------|
-  | Kanjanaporn Songboonketkul | Sorahdoi                 |
-  | Itthiwat Khlongkhaew       | Itthiwat New             |
-  | Voramate Plodprong         | VRM117                   |
-  | Kanyakorn Chantaphan       | Kanyakorn                |
-  | Yardfon Kongvittaya        | Fon_Grab                 |
-  | Thongchai Lueangchueang    | thongchailc              |
-  | Pimnapar Sasisuttinanon    | Pimnapar                 |
-  | Phuntira Ruanmool          | Phuntira.ru              |
-  | Tanawut Boonyanuwat        | Jame Boonya              |
-  | Kanokwan Kerdsomkarn       | May Mt                   |
-  | Nidchinan Seesaiprai       | nidchinan_grab           |
-  | Pimpitcha Renasatan        | Pimpitcha                |
-  | Tunva Pummarin             | Tunva                    |
-  | Chirachaya Saiwaew         | chirachayakkk            |
-  | Tosaporn Suksai            | nimbo2                   |
-  | Warunya Wirathamrongkul    | Warunya_Wira             |
-  | Ajaree Anunkasamsun        | firztt                   |
-  | Pimlada Veerapongawattana  | Pimlada Veerapongwattana |
-  | Chanyaporn Pumiamorn       | Bambi Pumiamorn          |
+| Name                      | OSM User Name            |
+| ------------------------- | ------------------------ |
+| Voramate Plodprong        | GrabTH\_Voramate         |
+| Kamonchanok Tummachat     | GrabTH\_Kamonchanok      |
+| Kulyada Sooksompong       | GrabTH\_Kulyada          |
+| Pattanapong Mayurowat     | GrabTH\_Pattanapong      |
+| Sumittra Wilapan          | GrabTH\_Sumittra         |
+| Kittipong Deejaingam      | GrabTH\_Kittipong        |
+| Napittha Inthaisong       | GrabTH\_Napittha         |
+| Nidchinan Seesaiprai      | nidchinan\_grab          |
+| Pimpitcha Renasatan       | Pimpitcha                |
+| Warunya Wirathamrongkul   | Warunya\_Wira            |
+| Pimlada Veerapongawattana | Pimlada Veerapongwattana |
+| Panawit Sitthichai        | GrabTH\_Panuwit          |
+| Kamolkaew Rarerngsub      | GrabTH\_Kamolkaew        |
 
 ### Vietnam:
 
