@@ -13,4 +13,4 @@
 
 ## Additional Information
 
-For more information, suggestions or questions contact our Outreach and Community Manager, [Jinal Foflia](https://www.openstreetmap.org/user/jinalfoflia). You can also refer our [OpenStreetMap wiki page](https://wiki.openstreetmap.org/wiki/Grab) for information. 
+For more information, suggestions or questions contact our Lead Program Manager, [Jinal Foflia](https://www.openstreetmap.org/user/jinalfoflia). You can also refer our [OpenStreetMap wiki page](https://wiki.openstreetmap.org/wiki/Grab) for information. 
