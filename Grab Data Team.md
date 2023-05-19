@@ -4,7 +4,6 @@
 
   | Name           | OSM User Name        |
   |----------------|----------------------|
-  | Jinal Foflia   | jinalfoflia          |
   | Renu Dubey     | Renu Dubey           |
   | Zack Gan       | ganny512             |
   | Rickson Tan    | GrabSG_ricksontan    |
