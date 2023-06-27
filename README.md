@@ -13,4 +13,4 @@
 
 ## Additional Information
 
-For more information, suggestions or questions contact our Lead Program Manager, [Saikat Maiti](https://www.openstreetmap.org/user/Saikat%20Maiti), or email us at geo.community@grab.com. You can also refer to our [OpenStreetMap wiki page](https://wiki.openstreetmap.org/wiki/Grab) for more information. 
+For more information, suggestions or questions contact our Senior Program Manager, [Saikat Maiti](https://www.openstreetmap.org/user/Saikat%20Maiti), or email us at geo.community@grab.com. You can also refer to our [OpenStreetMap wiki page](https://wiki.openstreetmap.org/wiki/Grab) for more information. 
