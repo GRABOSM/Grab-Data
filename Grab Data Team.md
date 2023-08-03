@@ -153,10 +153,8 @@
   | Kelvin Mathew              | muziriana           |
   | Chetan Gowda               | Chetan_Gowda        |
   | Martha Leena               | Martha_Bonula       |
-  | Kamal Deepth Vemuganti     | kdvemuganti         |
-  | Rupa Buela Mandala         | Rupa Buela          |
   | Vamsi Krishna              | vamsiOSM            |
-  | Saikat Maiti               | Saikat Maiti         |
+  | Saikat Maiti               | Saikat Maiti        |
 
 ### Cluj, Romania:
 
