@@ -182,249 +182,249 @@
 
 ### Hyderabad-1, India: 
 
-| Name                              | OSM User Name          |
-|-----------------------------------|------------------------|
-| Peruri K V V S Ch Mouli           | peruri                 |
-| Syed Abrar Ahmed                  | syed                   |
-| Vemuri Benjamin Herald            | v_ben                  |
-| Sunny Dandu                       | d_andu                 |
-| Mudumala Rajeswari                | mudumala               |
-| Phani Kakaraparthi                | phani_87               |
-| Komali Manohara Vamsi             | vam_mano               |
-| Madanu Radha                      | radha_madanu           |
-| T Srikanth                        | ts_kanth               |
-| Kabita Rani Sethi                 | kabi_ta                |
-| Tarupudi Ruthik Dhoni             | dhoni007               |
-| Chandaluri Raghuram               | ramrom                 |
-| Shreyas Ladole                    | shre_yas               |
-| Appikonda Lahari Padmaja          | appik                  |
-| Chilam Praveen Kumar              | chi_lam                |
-| B Aravind                         | arav_ind               |
-| Chaduvula Ramani                  | rama_ni                |
-| Goteti Madhavi                    | madh_avi               |
-| Gudla Narasimha Murthy            | mur_thy                |
-| Jonnakuti Kanthi Kumar            | jonna_kuti             |
-| Mittapally Lokeshwari             | lokesh_wari            |
-| Mohd Viqaruddin Aleem             | alee_m                 |
-| Pattlolla Manasa                  | pattlo_lla             |
-| Priya Premkumar                   | pri_ya123              |
-| Vijay Nagendra Reddy Yaramala     | v_ijay                 |
-| Rakesh Barigela                   | barigela               |
-| Pechetti Kiranmai                 | p_kiranmai             |
-| Kowkuntla Sravya Reddy            | sravy                  |
-| Gattepally Mounika                | mouni02                |
-| Pandraveesam Vinay                | pandra_vesam           |
-| Susmitha Karnati                  | Kar_1                  |
-| Shaik Areefullah                  | areef_03               |
-| Shanigala Divyasree               | divya_sree             |
-| Vallakati Arvind                  | arvind_1               |
-| Vattem Jyoshna                    | jyo_1                  |
-| Mohammed Asif Ali                 | m_ali                  |
-| Animelli Anusha                   | ani_melli              |
-| M Abhi Sai Kiran                  | m_abhi                 |
-| Shamakuri Aparna                  | sham_a                 |
-| Vulasala Jayasree                 | vulasala               |
-| Donikena Spandana                 | doni_s                 |
-| Jayasri Naspuri                   | nas_puri               |
-| Mysolla Mallesh                   | ma_llesh               |
-| Prerna Dhawle                     | prerna_d               |
-| Silmarth Bharath Kumar            | silma_1                |
-| Afshan Sultana                    | sultana_22             |
-| Shadan Mahveen                    | mahveen_0122           |
-| K Anusha                          | anusha_22              |
-| Vijaykumar Madai                  | mvijaykumar_22         |
-| T Yeshwini                        | yeshwini_22            |
-| Shaik Sohail Afroz                | sohail_22              |
-| Thulluri Baby Ramya krishna       | ramyakrishna_22        |
-| Shaik Riyaz                       | riyaz_22               |
-| Mangapuram Sai Nandini Reddy      | man_r                  |
-| Teddu Akshitha                    | akshitha_t             |
-| Md Abdul Sufi                     | sufi_22                |
-| k.kavya reddy                     | kavya_0122             |
-| P. Arulmozhi                      | arulmozhi_0122         |
-| Muram Arun Tej Reddy              | aruntej_22             |
-| Vanarasi Lalitha Sri Rajya Lakshmi| Lalitha_22             |
-| Kotagiri Vasundhara               | vasundhara_22          |
-| k.Rishi kumar                     | rishikumar_22          |
-| Shivakoti Divya Sree              | shivakotidivya_22      |
-| Amsanipalli Divya Sree            | adivya_22              |
-| Mudimyala srinath                 | msrinath_22            |
-| Guduri Swathi                     | swathi_guduri          |
-| Gunnampalli Raghavendra Reddy     | gunna_23               |
-| Reena Arvind Soni                 | reenas                 |
-| Guduri Sridevi                    | guduri                 |
-| K Anusha                          | kummar_i               |
-| Keshireddy Deepika                | Deep_112               |
-| Prashanthi Peddireddy             | prashan-thi            |
-| Vaddi Tanmayee                    | tan_mayee              |
-| Dushkanti Aravind Babu            | dusha_a                |
-| R B Srujana                       | srujana_ 22            |
-| Pathipaka Sujatha                 | sujatha_1              |
-| Pinnam swetha                     | pinnam_22              |
-| V.Akhil                           | vammu_22               |
-| Chalumuri Pavani                  | pa_vani                |
-| Dinesh Sammeta                    | Samm_1                 |
-| G Vennela                         | gan_ven                |
-| Kaje Vintha Smith                 | kaje001                |
-| Kalidindi Sai Siddhartha          | ksiddhartha            |
-| Kudupudi Praharshini              | harsh_19               |
-| Lingala Shyam Kumar               | linga_1                |
-| Mounika Kura                      | kura_1                 |
-| Panchamarthi Nagalaxmi            | panchamarti            |
-| Vallem Ravalika                   | ravali_78              |
-| Erukula Ram Kumar                 | eruk_la                |
-| G Sanjana                         | san_ju                 |
-| Veduruparthi Aparna               | yoga_1                 |
-| Vollala Nikhilkumar               | volla_la               |
-| Padhyala Sai Ram                  | padhyalasairam_22      |
-| Kasagani Mayuri                   | kmayuri                |
-| Adapa Sri Sai Vamsi Saketh        | a_dapa                 |
-| Addla Mounika                     | add_la                 |
-| Bonagiri Sahithi                  | sah_ithi               |
-| Chinthala Ramya                   | ch_ram                 |
-| Kawle Sulochana                   | lochana_01             |
-| Syed Kumail Hyder                 | syed_kumail            |
-| Vavilala Srikanth                 | vavilala1              |
-| R Sunil Reddy                     | sunil_22               |
-| Lakshmi Naveen                    | naveen_22              |
-| Nikhil                            | bapini_22              |
-| Kothuri Nandini                   | kothu_ri               |
-| Sakhamuri Bindu Charan Raju       | sakhamuri_22           |
-| Devarakonda Mounika Yadav         | devar_1                |
-| Gojala Navya Reddy                | gojala_n               |
-| Keersagar Archana                 | keer_a                 |
-| Mogali Sudarsana Sai              | mog_ali                |
-| Ponnapati Deepika                 | ponna_p                |
-| Pulimamidi Akhila                 | puli_mamidi            |
-| Pulla Aravind                     | aravind_1              |
-| Saikrishnareddy Dhanasiri         | dhana_sari             |
-| Shiva Jyothi                      | shi_va                 |
-| Sirikonda Datta Sai Rohan         | k_datta                |
-| syed farheen begum                | begum_22               |
-| pooja kumari                      | pooja_22               |
-| Yashwant                          | gorita_22              |
-| M Sravan Kumar                    | van_k                  |
-| Mohammad Umar Farooq              | umar_22                |
-| Borampeta Sridhar Reddy           | bora_s                 |
-| Cilveru Mamatha                   | cilveru01              |
-| Kampasati Goutham                 | kampa_sati             |
-| Karri Ramya                       | ram_kar                |
-| Pepakayala Vivek Naidu            | pepa_kayala            |
-| Poturaju Stella                   | stella_1               |
-| Raksha Geethanjali                | geetha_anjali          |
-| Vamshider Pannala                 | pannala                |
-| Vemireddy Lakshman                | vemi_r                 |
-| N.Sushanth Vijay Kumar            | vijay_22               |
-| V Arundhathi                      | valla_22               |
-| Rahul A                           | arigela_22             |
-| Mohd Mohsin                       | mo_hsin                |
-| Varikuppala Prashanth             | vari_22                |
-| Baddula bhuvaneshwar Rao          | baddula_22             |
-| Kamsani Kalpana Reddy             | kalpana_22             |
-| Kondam Divya                      | kondamdivya_22         |
-| Santosh                           | khanna_22              |
-| Pagadala Yogeetha                 | yo_geetha              |
-| Boyini Srikanth                   | boyini01               |
-| Hareesh                           | soppari_h              |
-| Kandavilli Gowriprasanna          | kprasu                 |
-| Sangita Saha                      | saha_123               |
-| Siddi Sridhar                     | siddi_s                |
-| Ugandhar Jupalli                  | Ugandhar_j             |
-| Vattathara Madhu Monisha          | isha01                 |
-| Vudem Prashanth Reddy             | vude_m                 |
-| B.Jagadish                        | jaga_22                |
-| Ramaswamy Jhansi                  | jhansi_22              |
-| Dommeti Satish                    | Dom_meti               |
-| Ganjala Lakshmi Sreedurga         | laxm_i                 |
-| Gantala Bhimendhar                | gan_b                  |
-| Ghantasala Ravali                 | ravali_123             |
-| Kisna Bagudai                     | kisn_a                 |
-| Manne Vamshi                      | manne_1                |
-| Mohammad Naseeruddin              | naseer_123             |
-| Puppala Nanda Kumar               | nan_da                 |
-| Shek Chandini                     | ch_shek                |
-| Varri Prashanthi                  | varri_p                |
-| Yadlapati Rupini                  | y_rupi                 |
-| Polisetty Harini                  | hari_setty             |
-| Yata Rajashekhar Reddy            | yata_22                |
-| Ariveni Bhavya                    | ariveni_b              |
-| Telu Nikitha                      | telu_22                |
-| Jada Kiran Kumar                  | jadakiran_22           |
-| Bollampelly Ramya                 | bramya_22              |
-| Nukala Lavanya                    | nukalal_22             |
-| Teegala Anusha                    | teegalaanusha_22       |
-| Ananthula Anilkumar               | ananthula_22           |
-| Mashetti Sailakshmi               | msailakshmi_22         |
-| Veerarouth Ramya                  | veerarouthramya_22     |
-| Gandu Haripriya                   | gharipriya_22          |
-| Samudrala Lavanya                 | slavanya_22            |
-| Kamadi Satya Sireesha             | ksatyasireesha_22      |
-| Kadagala Asha latha               | kashalatha_22          |
-| M Ranjith Kumar                   | ranjith_22             |
-| Rayavaram krishna reddy           | rkrishna_22            |
-| Kolakonda Raju                    | kraju_22               |
-| Vodela Nipun Sai                  | vnipun_22              |
-| Kundan thakur                     | kundant_22             |
-| Domathoti Sridhar                 | dsridhar_22            |
-| Kalivemula sanjay                 | ksanjay_22             |
-| Aswidhati Shiva Durga             | dur_ga                 |
-| Amuradhi Yogitha                  | ayogitha_22            |
-| Srikanth Reddy Kontham            | ksrikanth_22           |
-| Mohan Sai                         | jmohansai_22           |
-| Ghaliya Begum                     | ghaliyab_22            |
-| Burugadda sagar                   | bsagar_22              |
-| Kinthu Kelini                     | vkinthukelini_22       |
-| Gujjarlapudi Raju                 | graju_22               |
-| Priyanka makam                    | mpriyanka_22           |
-| Mohammed Masiuddin                | mmasiuddin_22          |
-| Essai Shankar                     | eshankar_22            |
-| Priyanka Pogula                   | ppriyanka_22           |
-| Kodari Rakesh                     | krakesh_22             |
-| Salali Raju                       | sraju_22               |
-| Javvadi Sravani                   | jsravani_22            |
-| Ganesh Hiranya                    | ganesh_22              |
-| Koyalkar Shashikar                | shashikar_22           |
-| Manisri Bangari                   | manisri_22             |
-| Moogala Venkateshwar Reddy        | moogala_22             |
-| Jilla Sirisha                     | sirisha_22             |
-| Shaik Farhana                     | farhana_22             |
-| Gangannagari Teja                 | teja_22                |
-| Arukali Swathi                    | arukali_22             |
-| Kotari Likhitha                   | kotari_22              |
-| Baindla Anila                     | banila_22              |
-| Nalla Karthik                     | nallak_22              |
-| Thalakola Ravindra                | thalakola_22           |
-| Ramavath Lalu Prasad              | ramalalu_22            |
-| M. Rajini                         | moodr_22               |
-| Tauqir Ali Sayyad                 | tsayyad_22             |
-| A Likhith Kumar                   | likhit_22              |
-| Karre Mahender                    | kmahender_22           |
-| Manideep Reddy                    | manireddy_22           |
-| Shaheda Mahreen                   | shaheda_22             |
-| Parshanaboina Deepa               | parshanaboina_22       |
-| Yella Lavanya                     | yellal_22              |
-| Bisula Divya                      | bisulad_22             |
-| Godishala Vinay                   | godishala_22           |
-| M.Vanitha                         | mallav_22              |
-| Shaik Riyaz                       | sriyaz_22              |
-| Ankit Kumar Sahu                  | ankits_22              |
-| Mangarai Uday Kiran               | mangarai_22            |
-| Chintham Aravind kumar            | charavind_22           |
-| Ramaganesh Adapaka                | ramag_22               |
-| Kota Priyanka                     | kotap_22               |
-| Umesh nagu                        | naguumesh_22           |
-| Meer Irfanali                     | meerali_22             |
-| Vinay Daya                        | dayav_22               |
-| Rayapureddy Somu                  | rayapusomu_22          |
-| Lavudya Sudhakar                  | lavudya_22             |
-| Nalina Devdas Meshram             | nalina-22              |
-| Cherukupalli Siri                 | cheruku_22             |
-| ERRA SANDEEP KUMAR                | erras_22               |
-| Dudekula Mabu Subhan              | mabus_22               |
-| Perla Sumanth Kumar Reddy         | perlas_22              |
-| Maria Jyothi                      | mariaj_22              |
-| Mohammad Shabana                  | shabana_22             |
-| Tembereni Bhargavi                |tbhargavi_22            |
+| Name                              | OSM User Name          | Account Status	    |
+|-----------------------------------|------------------------|---------------------	|
+| Peruri K V V S Ch Mouli           | peruri                 | Deactivated			|
+| Syed Abrar Ahmed                  | syed                   | Deactivated			|
+| Vemuri Benjamin Herald            | v_ben                  | Deactivated			|
+| Sunny Dandu                       | d_andu                 | Deactivated			|
+| Mudumala Rajeswari                | mudumala               | Deactivated			|
+| Phani Kakaraparthi                | phani_87               | Deactivated			|
+| Komali Manohara Vamsi             | vam_mano               | Deactivated			|
+| Madanu Radha                      | radha_madanu           | Deactivated			|
+| T Srikanth                        | ts_kanth               | Deactivated			|
+| Kabita Rani Sethi                 | kabi_ta                | Deactivated			|
+| Tarupudi Ruthik Dhoni             | dhoni007               | Deactivated			|
+| Chandaluri Raghuram               | ramrom                 | Deactivated			|
+| Shreyas Ladole                    | shre_yas               | Deactivated			|
+| Appikonda Lahari Padmaja          | appik                  | Deactivated			|
+| Chilam Praveen Kumar              | chi_lam                | Deactivated			|
+| B Aravind                         | arav_ind               | Deactivated			|
+| Chaduvula Ramani                  | rama_ni                | Deactivated			|
+| Goteti Madhavi                    | madh_avi               | Deactivated			|
+| Gudla Narasimha Murthy            | mur_thy                | Deactivated			|
+| Jonnakuti Kanthi Kumar            | jonna_kuti             | Deactivated			|
+| Mittapally Lokeshwari             | lokesh_wari            | Deactivated			|
+| Mohd Viqaruddin Aleem             | alee_m                 | Deactivated			|
+| Pattlolla Manasa                  | pattlo_lla             | Deactivated			|
+| Priya Premkumar                   | pri_ya123              | Deactivated			|
+| Vijay Nagendra Reddy Yaramala     | v_ijay                 | Deactivated			|
+| Rakesh Barigela                   | barigela               | Deactivated			|
+| Pechetti Kiranmai                 | p_kiranmai             | Deactivated			|
+| Kowkuntla Sravya Reddy            | sravy                  | Deactivated			|
+| Gattepally Mounika                | mouni02                | Deactivated			|
+| Pandraveesam Vinay                | pandra_vesam           | Deactivated			|
+| Susmitha Karnati                  | Kar_1                  | Deactivated			|
+| Shaik Areefullah                  | areef_03               | Deactivated			|
+| Shanigala Divyasree               | divya_sree             | Deactivated			|
+| Vallakati Arvind                  | arvind_1               | Deactivated			|
+| Vattem Jyoshna                    | jyo_1                  | Deactivated			|
+| Mohammed Asif Ali                 | m_ali                  | Deactivated			|
+| Animelli Anusha                   | ani_melli              | Deactivated			|
+| M Abhi Sai Kiran                  | m_abhi                 | Deactivated			|
+| Shamakuri Aparna                  | sham_a                 | Deactivated			|
+| Vulasala Jayasree                 | vulasala               | Deactivated			|
+| Donikena Spandana                 | doni_s                 | Deactivated			|
+| Jayasri Naspuri                   | nas_puri               | Deactivated			|
+| Mysolla Mallesh                   | ma_llesh               | Deactivated			|
+| Prerna Dhawle                     | prerna_d               | Deactivated			|
+| Silmarth Bharath Kumar            | silma_1                | Deactivated			|
+| Afshan Sultana                    | sultana_22             | Deactivated			|
+| Shadan Mahveen                    | mahveen_0122           | Deactivated			|
+| K Anusha                          | anusha_22              | Deactivated			|
+| Vijaykumar Madai                  | mvijaykumar_22         | Deactivated			|
+| T Yeshwini                        | yeshwini_22            | Deactivated			|
+| Shaik Sohail Afroz                | sohail_22              | Deactivated			|
+| Thulluri Baby Ramya krishna       | ramyakrishna_22        | Deactivated			|
+| Shaik Riyaz                       | riyaz_22               | Deactivated			|
+| Mangapuram Sai Nandini Reddy      | man_r                  | Deactivated			|
+| Teddu Akshitha                    | akshitha_t             | Deactivated			|
+| Md Abdul Sufi                     | sufi_22                | Deactivated			|
+| k.kavya reddy                     | kavya_0122             | Deactivated			|
+| P. Arulmozhi                      | arulmozhi_0122         | Deactivated			|
+| Muram Arun Tej Reddy              | aruntej_22             | Deactivated			|
+| Vanarasi Lalitha Sri Rajya Lakshmi| Lalitha_22             | Deactivated			|
+| Kotagiri Vasundhara               | vasundhara_22          | Deactivated			|
+| k.Rishi kumar                     | rishikumar_22          | Deactivated			|
+| Shivakoti Divya Sree              | shivakotidivya_22      | Deactivated			|
+| Amsanipalli Divya Sree            | adivya_22              | Deactivated			|
+| Mudimyala srinath                 | msrinath_22            | Deactivated			|
+| Guduri Swathi                     | swathi_guduri          | Deactivated			|
+| Gunnampalli Raghavendra Reddy     | gunna_23               | Deactivated			|
+| Reena Arvind Soni                 | reenas                 | Deactivated			|
+| Guduri Sridevi                    | guduri                 | Deactivated			|
+| K Anusha                          | kummar_i               | Deactivated			|
+| Keshireddy Deepika                | Deep_112               | Deactivated			|
+| Prashanthi Peddireddy             | prashan-thi            | Deactivated			|
+| Vaddi Tanmayee                    | tan_mayee              | Deactivated			|
+| Dushkanti Aravind Babu            | dusha_a                | Deactivated			|
+| R B Srujana                       | srujana_ 22            | Deactivated			|
+| Pathipaka Sujatha                 | sujatha_1              | Deactivated			|
+| Pinnam swetha                     | pinnam_22              | Deactivated			|
+| V.Akhil                           | vammu_22               | Deactivated			|
+| Chalumuri Pavani                  | pa_vani                | Deactivated			|
+| Dinesh Sammeta                    | Samm_1                 | Deactivated			|
+| G Vennela                         | gan_ven                | Deactivated			|
+| Kaje Vintha Smith                 | kaje001                | Deactivated			|
+| Kalidindi Sai Siddhartha          | ksiddhartha            | Deactivated			|
+| Kudupudi Praharshini              | harsh_19               | Deactivated			|
+| Lingala Shyam Kumar               | linga_1                | Deactivated			|
+| Mounika Kura                      | kura_1                 | Deactivated			|
+| Panchamarthi Nagalaxmi            | panchamarti            | Deactivated			|
+| Vallem Ravalika                   | ravali_78              | Deactivated			|
+| Erukula Ram Kumar                 | eruk_la                | Deactivated			|
+| G Sanjana                         | san_ju                 | Deactivated			|
+| Veduruparthi Aparna               | yoga_1                 | Deactivated			|
+| Vollala Nikhilkumar               | volla_la               | Deactivated			|
+| Padhyala Sai Ram                  | padhyalasairam_22      | Deactivated			|
+| Kasagani Mayuri                   | kmayuri                | Deactivated			|
+| Adapa Sri Sai Vamsi Saketh        | a_dapa                 | Deactivated			|
+| Addla Mounika                     | add_la                 | Deactivated			|
+| Bonagiri Sahithi                  | sah_ithi               | Deactivated			|
+| Chinthala Ramya                   | ch_ram                 | Deactivated			|
+| Kawle Sulochana                   | lochana_01             | Deactivated			|
+| Syed Kumail Hyder                 | syed_kumail            | Deactivated			|
+| Vavilala Srikanth                 | vavilala1              | Deactivated			|
+| R Sunil Reddy                     | sunil_22               | Deactivated			|
+| Lakshmi Naveen                    | naveen_22              | Deactivated			|
+| Nikhil                            | bapini_22              | Deactivated			|
+| Kothuri Nandini                   | kothu_ri               | Deactivated			|
+| Sakhamuri Bindu Charan Raju       | sakhamuri_22           | Deactivated			|
+| Devarakonda Mounika Yadav         | devar_1                | Deactivated			|
+| Gojala Navya Reddy                | gojala_n               | Deactivated			|
+| Keersagar Archana                 | keer_a                 | Deactivated			|
+| Mogali Sudarsana Sai              | mog_ali                | Deactivated			|
+| Ponnapati Deepika                 | ponna_p                | Deactivated			|
+| Pulimamidi Akhila                 | puli_mamidi            | Deactivated			|
+| Pulla Aravind                     | aravind_1              | Deactivated			|
+| Saikrishnareddy Dhanasiri         | dhana_sari             | Deactivated			|
+| Shiva Jyothi                      | shi_va                 | Deactivated			|
+| Sirikonda Datta Sai Rohan         | k_datta                | Deactivated			|
+| syed farheen begum                | begum_22               | Deactivated			|
+| pooja kumari                      | pooja_22               | Deactivated			|
+| Yashwant                          | gorita_22              | Deactivated			|
+| M Sravan Kumar                    | van_k                  | Deactivated			|
+| Mohammad Umar Farooq              | umar_22                | Deactivated			|
+| Borampeta Sridhar Reddy           | bora_s                 | Deactivated			|
+| Cilveru Mamatha                   | cilveru01              | Deactivated			|
+| Kampasati Goutham                 | kampa_sati             | Deactivated			|
+| Karri Ramya                       | ram_kar                | Deactivated			|
+| Pepakayala Vivek Naidu            | pepa_kayala            | Deactivated			|
+| Poturaju Stella                   | stella_1               | Deactivated			|
+| Raksha Geethanjali                | geetha_anjali          | Deactivated			|
+| Vamshider Pannala                 | pannala                | Deactivated			|
+| Vemireddy Lakshman                | vemi_r                 | Deactivated			|
+| N.Sushanth Vijay Kumar            | vijay_22               | Deactivated			|
+| V Arundhathi                      | valla_22               | Deactivated			|
+| Rahul A                           | arigela_22             | Deactivated			|
+| Mohd Mohsin                       | mo_hsin                | Deactivated			|
+| Varikuppala Prashanth             | vari_22                | Deactivated			|
+| Baddula bhuvaneshwar Rao          | baddula_22             | Deactivated			|
+| Kamsani Kalpana Reddy             | kalpana_22             | Deactivated			|
+| Kondam Divya                      | kondamdivya_22         | Deactivated			|
+| Santosh                           | khanna_22              | Deactivated			|
+| Pagadala Yogeetha                 | yo_geetha              | Deactivated			|
+| Boyini Srikanth                   | boyini01               | Deactivated			|
+| Hareesh                           | soppari_h              | Deactivated			|
+| Kandavilli Gowriprasanna          | kprasu                 | Deactivated			|
+| Sangita Saha                      | saha_123               | Deactivated			|
+| Siddi Sridhar                     | siddi_s                | Deactivated			|
+| Ugandhar Jupalli                  | Ugandhar_j             | Deactivated			|
+| Vattathara Madhu Monisha          | isha01                 | Deactivated			|
+| Vudem Prashanth Reddy             | vude_m                 | Deactivated			|
+| B.Jagadish                        | jaga_22                | Deactivated			|
+| Ramaswamy Jhansi                  | jhansi_22              | Deactivated			|
+| Dommeti Satish                    | Dom_meti               | Deactivated			|
+| Ganjala Lakshmi Sreedurga         | laxm_i                 | Deactivated			|
+| Gantala Bhimendhar                | gan_b                  | Deactivated			|
+| Ghantasala Ravali                 | ravali_123             | Deactivated			|
+| Kisna Bagudai                     | kisn_a                 | Deactivated			|
+| Manne Vamshi                      | manne_1                | Deactivated			|
+| Mohammad Naseeruddin              | naseer_123             | Deactivated			|
+| Puppala Nanda Kumar               | nan_da                 | Deactivated			|
+| Shek Chandini                     | ch_shek                | Deactivated			|
+| Varri Prashanthi                  | varri_p                | Deactivated			|
+| Yadlapati Rupini                  | y_rupi                 | Deactivated			|
+| Polisetty Harini                  | hari_setty             | Deactivated			|
+| Yata Rajashekhar Reddy            | yata_22                | Deactivated			|
+| Ariveni Bhavya                    | ariveni_b              | Deactivated			|
+| Telu Nikitha                      | telu_22                | Deactivated			|
+| Jada Kiran Kumar                  | jadakiran_22           | Deactivated			|
+| Bollampelly Ramya                 | bramya_22              | Deactivated			|
+| Nukala Lavanya                    | nukalal_22             | Deactivated			|
+| Teegala Anusha                    | teegalaanusha_22       | Deactivated			|
+| Ananthula Anilkumar               | ananthula_22           | Deactivated			|
+| Mashetti Sailakshmi               | msailakshmi_22         | Deactivated			|
+| Veerarouth Ramya                  | veerarouthramya_22     | Deactivated			|
+| Gandu Haripriya                   | gharipriya_22          | Deactivated			|
+| Samudrala Lavanya                 | slavanya_22            | Deactivated			|
+| Kamadi Satya Sireesha             | ksatyasireesha_22      | Deactivated			|
+| Kadagala Asha latha               | kashalatha_22          | Deactivated			|
+| M Ranjith Kumar                   | ranjith_22             | Deactivated			|
+| Rayavaram krishna reddy           | rkrishna_22            | Deactivated			|
+| Kolakonda Raju                    | kraju_22               | Deactivated			|
+| Vodela Nipun Sai                  | vnipun_22              | Deactivated			|
+| Kundan thakur                     | kundant_22             | Deactivated			|
+| Domathoti Sridhar                 | dsridhar_22            | Deactivated			|
+| Kalivemula sanjay                 | ksanjay_22             | Deactivated			|
+| Aswidhati Shiva Durga             | dur_ga                 | Deactivated			|
+| Amuradhi Yogitha                  | ayogitha_22            | Deactivated			|
+| Srikanth Reddy Kontham            | ksrikanth_22           | Deactivated			|
+| Mohan Sai                         | jmohansai_22           | Deactivated			|
+| Ghaliya Begum                     | ghaliyab_22            | Deactivated			|
+| Burugadda sagar                   | bsagar_22              | Deactivated			|
+| Kinthu Kelini                     | vkinthukelini_22       | Deactivated			|
+| Gujjarlapudi Raju                 | graju_22               | Deactivated			|
+| Priyanka makam                    | mpriyanka_22           | Deactivated			|
+| Mohammed Masiuddin                | mmasiuddin_22          | Deactivated			|
+| Essai Shankar                     | eshankar_22            | Deactivated			|
+| Priyanka Pogula                   | ppriyanka_22           | Deactivated			|
+| Kodari Rakesh                     | krakesh_22             | Deactivated			|
+| Salali Raju                       | sraju_22               | Deactivated			|
+| Javvadi Sravani                   | jsravani_22            | Deactivated			|
+| Ganesh Hiranya                    | ganesh_22              | Deactivated			|
+| Koyalkar Shashikar                | shashikar_22           | Deactivated			|
+| Manisri Bangari                   | manisri_22             | Deactivated			|
+| Moogala Venkateshwar Reddy        | moogala_22             | Deactivated			|
+| Jilla Sirisha                     | sirisha_22             | Deactivated			|
+| Shaik Farhana                     | farhana_22             | Deactivated			|
+| Gangannagari Teja                 | teja_22                | Deactivated			|
+| Arukali Swathi                    | arukali_22             | Deactivated			|
+| Kotari Likhitha                   | kotari_22              | Deactivated			|
+| Baindla Anila                     | banila_22              | Deactivated			|
+| Nalla Karthik                     | nallak_22              | Deactivated			|
+| Thalakola Ravindra                | thalakola_22           | Deactivated			|
+| Ramavath Lalu Prasad              | ramalalu_22            | Deactivated			|
+| M. Rajini                         | moodr_22               | Deactivated			|
+| Tauqir Ali Sayyad                 | tsayyad_22             | Deactivated			|
+| A Likhith Kumar                   | likhit_22              | Deactivated			|
+| Karre Mahender                    | kmahender_22           | Deactivated			|
+| Manideep Reddy                    | manireddy_22           | Deactivated			|
+| Shaheda Mahreen                   | shaheda_22             | Deactivated			|
+| Parshanaboina Deepa               | parshanaboina_22       | Deactivated			|
+| Yella Lavanya                     | yellal_22              | Deactivated			|
+| Bisula Divya                      | bisulad_22             | Deactivated			|
+| Godishala Vinay                   | godishala_22           | Deactivated			|
+| M.Vanitha                         | mallav_22              | Deactivated			|
+| Shaik Riyaz                       | sriyaz_22              | Deactivated			|
+| Ankit Kumar Sahu                  | ankits_22              | Deactivated			|
+| Mangarai Uday Kiran               | mangarai_22            | Deactivated			|
+| Chintham Aravind kumar            | charavind_22           | Deactivated			|
+| Ramaganesh Adapaka                | ramag_22               | Deactivated			|
+| Kota Priyanka                     | kotap_22               | Deactivated			|
+| Umesh nagu                        | naguumesh_22           | Deactivated			|
+| Meer Irfanali                     | meerali_22             | Deactivated			|
+| Vinay Daya                        | dayav_22               | Deactivated			|
+| Rayapureddy Somu                  | rayapusomu_22          | Deactivated			|
+| Lavudya Sudhakar                  | lavudya_22             | Deactivated			|
+| Nalina Devdas Meshram             | nalina-22              | Deactivated			|
+| Cherukupalli Siri                 | cheruku_22             | Deactivated			|
+| ERRA SANDEEP KUMAR                | erras_22               | Deactivated			|
+| Dudekula Mabu Subhan              | mabus_22               | Deactivated			|
+| Perla Sumanth Kumar Reddy         | perlas_22              | Deactivated			|
+| Maria Jyothi                      | mariaj_22              | Deactivated			|
+| Mohammad Shabana                  | shabana_22             | Deactivated			|
+| Tembereni Bhargavi                |tbhargavi_22            | Deactivated			|
 
 ### Hyderabad-2, India 
 
