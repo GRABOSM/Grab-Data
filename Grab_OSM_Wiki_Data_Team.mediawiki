@@ -1,0 +1,209 @@
+<!--
+Updated on 30-June-2026.
+-->
+
+==Grab Data Team==
+
+Grab's [https://github.com/GRABOSM/Grab-Data/blob/master/Grab_Data_Team.md data team] contributes to OpenStreetMap's coverage of a number of Asian cities.<ref>{{cite web |url=https://github.com/GRABOSM/Grab-Data/blob/master/Grab_Data_Team.md |title=Grab Data Team on GitHub |website=GitHub |access-date=30 June 2026}}</ref> For any questions, please get in touch with [[osm:user/Saikat Maiti|Saikat Maiti]] or reach out to us on: geo.community@grab.com
+
+The active OSM user IDs below are grouped by country and linked to their OpenStreetMap profiles.
+
+{| class="wikitable sortable"
+! Country
+! OSM user profiles
+|-
+| ID - Indonesia
+|
+* [https://www.openstreetmap.org/user/GrabID_sriwijoyo GrabID_sriwijoyo]
+* [https://www.openstreetmap.org/user/GrabID_Almusafia GrabID_Almusafia]
+* [https://www.openstreetmap.org/user/GrabID_FaizahM GrabID_FaizahM]
+* [https://www.openstreetmap.org/user/GrabID_Akbar GrabID_Akbar]
+* [https://www.openstreetmap.org/user/GrabID_MuhammadRafly GrabID_MuhammadRafly]
+* [https://www.openstreetmap.org/user/GrabID_UmiZumroh GrabID_UmiZumroh]
+* [https://www.openstreetmap.org/user/GrabID_Rifqi GrabID_Rifqi]
+* [https://www.openstreetmap.org/user/GrabID_Intan GrabID_Intan]
+* [https://www.openstreetmap.org/user/GrabID_Dimas GrabID_Dimas]
+* [https://www.openstreetmap.org/user/GrabID_audreyshadiq GrabID_audreyshadiq]
+* [https://www.openstreetmap.org/user/GrabID_Yogie GrabID_Yogie]
+* [https://www.openstreetmap.org/user/GrabID_Aulia GrabID_Aulia]
+* [https://www.openstreetmap.org/user/GrabID_anahadaita GrabID_anahadaita]
+* [https://www.openstreetmap.org/user/GrabID_Novita GrabID_Novita]
+* [https://www.openstreetmap.org/user/GrabID_Yulistiawan GrabID_Yulistiawan]
+* [https://www.openstreetmap.org/user/GrabID_Wiratama GrabID_Wiratama]
+* [https://www.openstreetmap.org/user/GrabID_Lydya GrabID_Lydya]
+* [https://www.openstreetmap.org/user/GrabID_NisaAmelia GrabID_NisaAmelia]
+|-
+| KH - Cambodia
+|
+* [https://www.openstreetmap.org/user/GrabKH_rithy GrabKH_rithy]
+* [https://www.openstreetmap.org/user/GrabKH_Savda GrabKH_Savda]
+* [https://www.openstreetmap.org/user/GrabKH_Vannak GrabKH_Vannak]
+* [https://www.openstreetmap.org/user/GrabKH_Nary GrabKH_Nary]
+* [https://www.openstreetmap.org/user/GrabKH_Vong GrabKH_Vong]
+* [https://www.openstreetmap.org/user/GrabKH_Leangheng GrabKH_Leangheng]
+|-
+| MM - Myanmar
+|
+* [https://www.openstreetmap.org/user/William%20Maung William Maung]
+* [https://www.openstreetmap.org/user/Aye%20Nyein%20Nyein%20Maung Aye Nyein Nyein Maung]
+* [https://www.openstreetmap.org/user/PTZA PTZA]
+* [https://www.openstreetmap.org/user/Harry%20Work Harry Work]
+|-
+| MY - Malaysia
+|
+* [https://www.openstreetmap.org/user/GrabMY_Afzanizam GrabMY_Afzanizam]
+* [https://www.openstreetmap.org/user/GrabMY_ashikinshamshul GrabMY_ashikinshamshul]
+* [https://www.openstreetmap.org/user/GrabMY_FaizDjamil GrabMY_FaizDjamil]
+* [https://www.openstreetmap.org/user/GrabMY_anessaid GrabMY_anessaid]
+* [https://www.openstreetmap.org/user/GrabMY_nazhifazman GrabMY_nazhifazman]
+* [https://www.openstreetmap.org/user/GrabMY_adhimzulkifly GrabMY_adhimzulkifly]
+* [https://www.openstreetmap.org/user/GrabMY_haziqekhwan GrabMY_haziqekhwan]
+* [https://www.openstreetmap.org/user/GrabMY_syafiqahzaini GrabMY_syafiqahzaini]
+* [https://www.openstreetmap.org/user/GrabMY_AdamZulkifli GrabMY_AdamZulkifli]
+* [https://www.openstreetmap.org/user/GrabMY_IswanIsmail GrabMY_IswanIsmail]
+* [https://www.openstreetmap.org/user/GrabMY_SitiZulhusna GrabMY_SitiZulhusna]
+* [https://www.openstreetmap.org/user/GrabMY_ainayusof GrabMY_ainayusof]
+* [https://www.openstreetmap.org/user/GrabMY_kimberly GrabMY_kimberly]
+* [https://www.openstreetmap.org/user/GrabMY_IzzahIbrahim GrabMY_IzzahIbrahim]
+* [https://www.openstreetmap.org/user/GrabMY_IkhwanAzmy GrabMY_IkhwanAzmy]
+|-
+| PH - Philippines
+|
+* [https://www.openstreetmap.org/user/GrabPHRon GrabPHRon]
+* [https://www.openstreetmap.org/user/GrabPHYanna GrabPHYanna]
+* [https://www.openstreetmap.org/user/GrabPHEJ GrabPHEJ]
+* [https://www.openstreetmap.org/user/GrabPHEjelyn GrabPHEjelyn]
+* [https://www.openstreetmap.org/user/GrabPHJayson GrabPHJayson]
+* [https://www.openstreetmap.org/user/GrabPHJerome GrabPHJerome]
+* [https://www.openstreetmap.org/user/GrabPHPao GrabPHPao]
+* [https://www.openstreetmap.org/user/GrabPHJoshua GrabPHJoshua]
+* [https://www.openstreetmap.org/user/GrabPHGolda GrabPHGolda]
+* [https://www.openstreetmap.org/user/GrabPHVic GrabPHVic]
+* [https://www.openstreetmap.org/user/GrabPHIan GrabPHIan]
+* [https://www.openstreetmap.org/user/GrabPHAngel GrabPHAngel]
+* [https://www.openstreetmap.org/user/GrabPH_angelicagenosa GrabPH_angelicagenosa]
+* [https://www.openstreetmap.org/user/GrabPHChristian GrabPHChristian]
+* [https://www.openstreetmap.org/user/GrabPH_andreapajarillo GrabPH_andreapajarillo]
+* [https://www.openstreetmap.org/user/GrabPHDarrenjoseph GrabPHDarrenjoseph]
+* [https://www.openstreetmap.org/user/GrabPH_abelardopaunejr GrabPH_abelardopaunejr]
+* [https://www.openstreetmap.org/user/GrabPHMarkbargo GrabPHMarkbargo]
+* [https://www.openstreetmap.org/user/GrabPHVeniceSimasanti GrabPHVeniceSimasanti]
+* [https://www.openstreetmap.org/user/GrabPHMari GrabPHMari]
+* [https://www.openstreetmap.org/user/GrabPHAlfie GrabPHAlfie]
+|-
+| SG - Singapore
+|
+* [https://www.openstreetmap.org/user/Renu%20Dubey Renu Dubey]
+* [https://www.openstreetmap.org/user/GrabSG_zack GrabSG_zack]
+* [https://www.openstreetmap.org/user/GrabSG_ricksontan GrabSG_ricksontan]
+* [https://www.openstreetmap.org/user/GrabSG_Nicholas GrabSG_Nicholas]
+* [https://www.openstreetmap.org/user/GrabSG_AndyAng GrabSG_AndyAng]
+* [https://www.openstreetmap.org/user/GrabSG_huipingang GrabSG_huipingang]
+* [https://www.openstreetmap.org/user/GrabSG_Charlie GrabSG_Charlie]
+* [https://www.openstreetmap.org/user/GrabSG_Finn GrabSG_Finn]
+* [https://www.openstreetmap.org/user/GrabSG_NabilFikri GrabSG_NabilFikri]
+* [https://www.openstreetmap.org/user/GrabSG_ThaddusNg GrabSG_ThaddusNg]
+* [https://www.openstreetmap.org/user/GrabSG_jeremycheong GrabSG_jeremycheong]
+|-
+| TH - Thailand
+|
+* [https://www.openstreetmap.org/user/GrabTH_Voramate GrabTH_Voramate]
+* [https://www.openstreetmap.org/user/GrabTH_Napittha GrabTH_Napittha]
+* [https://www.openstreetmap.org/user/nidchinan_grab nidchinan_grab]
+* [https://www.openstreetmap.org/user/GrabTH_Pimpitcha GrabTH_Pimpitcha]
+* [https://www.openstreetmap.org/user/Pimlada%20Veerapongwattana Pimlada Veerapongwattana]
+* [https://www.openstreetmap.org/user/GrabTH_Thamolvan GrabTH_Thamolvan]
+* [https://www.openstreetmap.org/user/GrabTH_Kornkamon GrabTH_Kornkamon]
+* [https://www.openstreetmap.org/user/GrabTH_Sakawrat GrabTH_Sakawrat]
+* [https://www.openstreetmap.org/user/GrabTH_Sirinthorn GrabTH_Sirinthorn]
+* [https://www.openstreetmap.org/user/GrabTH_Winithara GrabTH_Winithara]
+* [https://www.openstreetmap.org/user/GrabTH_Charoen GrabTH_Charoen]
+* [https://www.openstreetmap.org/user/GrabTH_Tanyaporn GrabTH_Tanyaporn]
+* [https://www.openstreetmap.org/user/GrabTH_Tanyamai GrabTH_Tanyamai]
+* [https://www.openstreetmap.org/user/GrabTH_Monnapat GrabTH_Monnapat]
+|-
+| VN - Vietnam
+|
+* [https://www.openstreetmap.org/user/GrabVN_trampm GrabVN_trampm]
+* [https://www.openstreetmap.org/user/GrabVN_PhuVong GrabVN_PhuVong]
+* [https://www.openstreetmap.org/user/GrabVN_%C3%81nh%20Linh%20L%C3%AA GrabVN_Ánh Linh Lê]
+* [https://www.openstreetmap.org/user/Grab_Cong Grab_Cong]
+* [https://www.openstreetmap.org/user/GrabVN_Lien GrabVN_Lien]
+* [https://www.openstreetmap.org/user/GrabVN_Nguyen%20Thi%20Ngoc%20Tram GrabVN_Nguyen Thi Ngoc Tram]
+* [https://www.openstreetmap.org/user/GrabVN_Nhanluu GrabVN_Nhanluu]
+* [https://www.openstreetmap.org/user/GrabVN_PhungNhi GrabVN_PhungNhi]
+* [https://www.openstreetmap.org/user/GrabVN_Nguyen%20Thanh%20Phuong GrabVN_Nguyen Thanh Phuong]
+* [https://www.openstreetmap.org/user/GrabVN-Nhu GrabVN-Nhu]
+* [https://www.openstreetmap.org/user/Grab_Sang Grab_Sang]
+* [https://www.openstreetmap.org/user/GrabVN_QThoai GrabVN_QThoai]
+* [https://www.openstreetmap.org/user/GrabVN_Nguyen%20Thi%20Ngoc%20Han GrabVN_Nguyen Thi Ngoc Han]
+* [https://www.openstreetmap.org/user/GrabVNMaiNgo GrabVNMaiNgo]
+* [https://www.openstreetmap.org/user/GrabVN_Yen GrabVN_Yen]
+* [https://www.openstreetmap.org/user/GrabVN_Dang GrabVN_Dang]
+* [https://www.openstreetmap.org/user/GrabVN_HHanh GrabVN_HHanh]
+* [https://www.openstreetmap.org/user/GrabVN_Nguyen GrabVN_Nguyen]
+* [https://www.openstreetmap.org/user/GrabVN_Trieu GrabVN_Trieu]
+* [https://www.openstreetmap.org/user/GrabVN_QTrung GrabVN_QTrung]
+|-
+| RO - Romania
+|
+* [https://www.openstreetmap.org/user/ioana_moldovan ioana_moldovan]
+* [https://www.openstreetmap.org/user/corinag_grab corinag_grab]
+* [https://www.openstreetmap.org/user/daniela_grab daniela_grab]
+* [https://www.openstreetmap.org/user/danut_grab danut_grab]
+* [https://www.openstreetmap.org/user/rat_lorand_grab rat_lorand_grab]
+* [https://www.openstreetmap.org/user/mihaii_grab mihaii_grab]
+* [https://www.openstreetmap.org/user/oliviar_grab oliviar_grab]
+* [https://www.openstreetmap.org/user/teodora_grab teodora_grab]
+* [https://www.openstreetmap.org/user/ionut_radu ionut_radu]
+* [https://www.openstreetmap.org/user/AndreiaCadar AndreiaCadar]
+* [https://www.openstreetmap.org/user/cghisa_grab cghisa_grab]
+* [https://www.openstreetmap.org/user/AngelaAluas AngelaAluas]
+* [https://www.openstreetmap.org/user/traian_cozmi traian_cozmi]
+* [https://www.openstreetmap.org/user/csaba_szasz csaba_szasz]
+* [https://www.openstreetmap.org/user/irina_dosa irina_dosa]
+* [https://www.openstreetmap.org/user/andreidulgheru andreidulgheru]
+* [https://www.openstreetmap.org/user/CatalinGadalean CatalinGadalean]
+* [https://www.openstreetmap.org/user/Cosmin_Matifalean Cosmin_Matifalean]
+* [https://www.openstreetmap.org/user/OrvossyZoli OrvossyZoli]
+* [https://www.openstreetmap.org/user/razvanpopa15 razvanpopa15]
+* [https://www.openstreetmap.org/user/CristinaSabau CristinaSabau]
+* [https://www.openstreetmap.org/user/GHAlex GHAlex]
+* [https://www.openstreetmap.org/user/AlexandraLudusan AlexandraLudusan]
+* [https://www.openstreetmap.org/user/CatalinBaciu CatalinBaciu]
+* [https://www.openstreetmap.org/user/GeorgianaGoia1 GeorgianaGoia1]
+* [https://www.openstreetmap.org/user/tudor_rotariu tudor_rotariu]
+* [https://www.openstreetmap.org/user/simonat_grab simonat_grab]
+* [https://www.openstreetmap.org/user/alexc_grab alexc_grab]
+* [https://www.openstreetmap.org/user/adeln_grab adeln_grab]
+* [https://www.openstreetmap.org/user/mirceav_grab mirceav_grab]
+* [https://www.openstreetmap.org/user/dianad_grab dianad_grab]
+* [https://www.openstreetmap.org/user/narcisa_t narcisa_t]
+* [https://www.openstreetmap.org/user/florino_grab florino_grab]
+* [https://www.openstreetmap.org/user/stefanaN_grab stefanaN_grab]
+* [https://www.openstreetmap.org/user/cosminm_grab cosminm_grab]
+* [https://www.openstreetmap.org/user/laurentiuP_grab laurentiuP_grab]
+* [https://www.openstreetmap.org/user/andradab_grab andradab_grab]
+* [https://www.openstreetmap.org/user/PetricSfr PetricSfr]
+* [https://www.openstreetmap.org/user/ravram_grab ravram_grab]
+* [https://www.openstreetmap.org/user/claudiat_grab claudiat_grab]
+* [https://www.openstreetmap.org/user/danv_grab danv_grab]
+|-
+| IN - India
+|
+* [https://www.openstreetmap.org/user/Iqhra Iqhra]
+* [https://www.openstreetmap.org/user/Chetan_Gowda Chetan_Gowda]
+* [https://www.openstreetmap.org/user/Saikat%20Maiti Saikat Maiti]
+* [https://www.openstreetmap.org/user/bharath_b bharath_b]
+* [https://www.openstreetmap.org/user/ruchitha_reddy ruchitha_reddy]
+* [https://www.openstreetmap.org/user/jayasree_c jayasree_c]
+* [https://www.openstreetmap.org/user/mangapatnam_anudeep mangapatnam_anudeep]
+* [https://www.openstreetmap.org/user/neeli_srikanth neeli_srikanth]
+* [https://www.openstreetmap.org/user/rajashekhar_n rajashekhar_n]
+* [https://www.openstreetmap.org/user/sabahath_s sabahath_s]
+* [https://www.openstreetmap.org/user/shagufta_s shagufta_s]
+* [https://www.openstreetmap.org/user/Sritej_Palla Sritej_Palla]
+* [https://www.openstreetmap.org/user/Suresh_Dharmanolu Suresh_Dharmanolu]
+* [https://www.openstreetmap.org/user/Veerabhadrachary Veerabhadrachary]
+* [https://www.openstreetmap.org/user/yaswanth_d yaswanth_d]
+|}
